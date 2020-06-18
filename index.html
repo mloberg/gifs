@@ -1,0 +1,53 @@
+---
+---
+<!DOCTYPE html>
+<html class="antialiased" lang="{{ page.lang | default: site.lang | default: "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>gifs</title>
+  {% if page.url and site.baseurl %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  {% endif %}
+  <link rel="stylesheet" href="{% link assets/css/app.css %}">
+</head>
+<body class="text-white bg-gray-900 body-font font-sans tracking-wider leading-normal" x-data="gifs()" x-init="init()">
+  <div class="toast">
+    <p class="toast-message mt-4 py-2 px-4 bg-white text-black rounded-sm"
+      x-show="toast"
+      x-transition:enter="transition ease-out duration-300"
+      x-transition:enter-start="opacity-0 transform scale-90"
+      x-transition:enter-end="opacity-100 transform scale-100"
+      x-transition:leave="transition ease-in duration-300"
+      x-transition:leave-start="opacity-100 transform scale-100"
+      x-transition:leave-end="opacity-0 transform scale-90">Copied!</p>
+  </div>
+
+  <div class="container px-5 pt-24 mx-auto">
+    <h1 class="text-center text-lg mb-12">matt's gifs</h1>
+
+    <label class="block mb-12">
+      <input class="form-input mt-1 block w-1/2 mx-auto text-black" placeholder="Search for a gif" x-model="query" @keyup="search">
+    </label>
+
+    <!-- overflow scroll or ping search to top? -->
+    <div class="grid grid-cols-3 gap-4 mx-auto">
+      <template x-for="r in results" :key="r.file">
+        <div class="mx-auto text-center">
+          <div class="relative">
+            <div @click="copy" class="absolute w-full h-full bg-gray-900 cursor-pointer opacity-0 hover:opacity-50 transition-opacity duration-300 ease-in-out flex items-stretch z-10">
+              <div class="self-center mx-auto text-black z-30">
+                <p class="py-2 px-4 bg-white rounded">Copy</p>
+                <input :value="r.file" class="form-input block mt-2 z-50">
+              </div>
+            </div>
+            <img :src="r.file" :alt="r.name" class="object-center">
+          </div>
+          <span x-text="r.name"></span>
+        </div>
+      </template>
+    </div>
+  </div>
+  <script src="{% link assets/js/app.js %}"></script>
+</body>
+</html>

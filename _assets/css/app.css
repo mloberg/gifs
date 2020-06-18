@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.toast {
+  @apply absolute;
+  left: 50%;
+}
+
+.toast-message {
+  @apply relative;
+  left: -50%;
+}

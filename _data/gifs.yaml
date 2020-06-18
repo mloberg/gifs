@@ -1,0 +1,219 @@
+- name: 100% Awesome
+  file: /gifs/100-percent-awesome.gif
+  tags: [ himym, barney, stinson, confident ]
+- name: Angry Face
+  file: /gifs/angry-face.gif
+  tags: [ angry, breaking, bad ]
+- name: Collapse
+  file: /gifs/bb-collapse.gif
+  tags: [ breaking, bad, sad, cry ]
+- name: Gale Dancing
+  file: /gifs/bb-dance.gif
+  tags: [ dance, dancing, happy, breaking, bad ]
+- name: Walter White Explosion
+  file: /gifs/bb-explosion.gif
+  tags: [ badass, breaking, bad ]
+- name: Breaking Bad High Five
+  file: /gifs/bb-high-five.gif
+  tags: [ awesome, high, five, breaking, bad ]
+- name: Breaking Bad RV
+  file: /gifs/bb-rv.gif
+  tags: [ calm, serene, peaceful, tranquil ]
+- name: Beer Me
+  file: /gifs/beer-me.gif
+  tags: [ awesome, fuck yeah, impressive, best, badass ]
+- name: Car Jump
+  file: /gifs/best-car-jump.gif
+  tags: [ awesome, best, impressive ]
+- name: B&W Clapping
+  file: /gifs/best-clap.gif
+  tags: [ clap, praise ]
+- name: Kid Dancing
+  file: /gifs/best-kid-dancing.gif
+  tags: [ dance, dancing, moves, awesome, best ]
+- name: Star Trek Nod
+  file: /gifs/best-star-trek.gif
+  tags: [ awesome, best, thanks ]
+- name: Blank Stare
+  file: /gifs/blank-stare.gif
+  tags: [ bored, breaking, bad, expressionless ]
+- name: Bored
+  file: /gifs/bored.gif
+  tags: [ breaking, bad ]
+- name: Bored
+  file: /gifs/bored-2.gif
+  tags: []
+- name: Bring It On
+  file: /gifs/bring-it-on-psycho-cat.gif
+  tags: [ crazy, challenge, cat ]
+- name: Brush Off
+  file: /gifs/brush-off.gif
+  tags: [ star, wars, not, impressed ]
+- name: This is Bullshit
+  file: /gifs/bullshit.gif
+  tags: [ breaking, bad ]
+- name: Burn It
+  file: /gifs/burn-it.gif
+  tags: [ bobs, burgers, fire ]
+- name: Burn
+  file: /gifs/burn.gif
+  tags: [ fire ]
+- name: He Can't Keep Getting Away With It
+  file: /gifs/cant-keep-getting-away.gif
+  tags: [ breaking, bad, cry ]
+- name: Carman Sherif
+  file: /gifs/cartman-sherif.gif
+  tags: [ south, park, stare, distrust, not, sure if ]
+- name: Carman Wink
+  file: /gifs/cartman-wink.gif
+  tags: [ south, park ]
+- name: Cat Attack
+  file: /gifs/cat-attack-2.gif
+  tags: [ dog, challenge ]
+- name: Cat Attack
+  file: /gifs/cat-attack.gif
+  tags: []
+- name: Cat Eating Bannana
+  file: /gifs/cat-bannana.gif
+  tags: [ weird ]
+- name: Cat in Box
+  file: /gifs/cat-box.gif
+  tags: []
+- name: Cat Catch
+  file: /gifs/cat-catch.gif
+  tags: []
+- name: Cat Fail
+  file: /gifs/cat-fail.gif
+  tags: []
+- name: Cat Jump
+  file: /gifs/cat-jump.gif
+  tags: [ crazy ]
+- name: Crazy Cats
+  file: /gifs/cats.gif
+  tags: [ crazy, weird ]
+- name: Challenge Accepted
+  file: /gifs/challenge-accepted-2.gif
+  tags: [ himym, barney, stinson ]
+- name: Challenge Accepted
+  file: /gifs/challenge-accepted.gif
+  tags: [ himym, barney, stinson ]
+- name: Conversation Over
+  file: /gifs/conversation-over-batman.gif
+  tags: [ batman ]
+- name: Conversation Over
+  file: /gifs/conversation-over.gif
+  tags: [ eye, roll ]
+- name: Head Bob
+  file: /gifs/crazy-head-bob.gif
+  tags: [ crazy, 'yes' ]
+- name: Crazy Monkey
+  file: /gifs/crazy-monkey.gif
+  tags: []
+- name: Cry
+  file: /gifs/cry-2.gif
+  tags: [ breaking, bad ]
+- name: Cry
+  file: /gifs/cry.gif
+  tags: [ breaking, bad, shaking, head ]
+- name: CSS
+  file: /gifs/css.gif
+  tags: [ family, guy, web, development, frustrated ]
+- name: Didn't Read
+  file: /gifs/didnt-read.gif
+  tags: [ tldr ]
+- name: Disapointed
+  file: /gifs/disapointed.gif
+  tags: [ disaprove, nope ]
+- name: Do I Give a Fuck
+  file: /gifs/do-i-give-a-fuck.gif
+  tags: [ swear ]
+- name: Dog
+  file: /gifs/dog-vacuum.gif
+  tags: []
+- name: Dollar
+  file: /gifs/dollar.gif
+  tags: [ breaking, bad, money, bribe ]
+- name: Don't Give a Fuck
+  file: /gifs/dont-give-a-fuck.gif
+  tags: [ star, wars, swear ]
+- name: Don't Touch
+  file: /gifs/dont-touch.gif
+  tags: [ breaking, rules ]
+- name: Drink
+  file: /gifs/drink.gif
+  tags: []
+- name: Drinking
+  file: /gifs/drinking.gif
+  tags: []
+- name: Drop Kick
+  file: /gifs/drop-kick.gif
+  tags: [ unexpected ]
+- name: Not Impressed
+  file: /gifs/dwight-not-impressed.gif
+  tags: [ contempt ]
+- name: Punch
+  file: /gifs/dwigth-punch.gif
+  tags: []
+- name: Epic Fail
+  file: /gifs/epic-fail.gif
+  tags: [ breaking, bad ]
+- name: Everybody Wins
+  file: /gifs/everybody-wins.gif
+  tags: [ breaking, bad ]
+- name: Everything is Awesome
+  file: /gifs/everything-is-awesome.gif
+  tags: []
+- name: Excited
+  file: /gifs/excited.gif
+  tags: []
+- name: I Don't Know What I Expected
+  file: /gifs/expected.gif
+  tags: [ arrested, development, disbelief ]
+- name: Car Explosion
+  file: /gifs/explosion.gif
+  tags: [ breaking, bad, badass ]
+- name: Expressionless
+  file: /gifs/expresionless.gif
+  tags: [ breaking, bad ]
+- name: Eye Roll
+  file: /gifs/eye-roll.gif
+  tags: [ disbelief ]
+- name: Facepalm
+  file: /gifs/facepalm.gif
+  tags: [ breaking, bad, face, palm ]
+- name: Dunk Fail
+  file: /gifs/fail-dunk.gif
+  tags: []
+- name: Rollercoaster Fail
+  file: /gifs/fail-rollercoaster.gif
+  tags: []
+- name: Fix It
+  file: /gifs/fix-it.gif
+  tags: [ futurama ]
+
+
+- name: Thrust
+  file: /gifs/thrust.gif
+  tags: [ awesome, hype, fuck, yeah ]
+
+- category: Contempt
+  name: Nice Try Asshole
+  file: /gifs/nice-try-asshole.gif
+  tags: [ breaking, bad ]
+
+- category: Cool Story Bro
+  name: Stare
+  file: /gifs/stare-awkward.gif
+  tags: [ akward, uncomfortable ]
+
+
+
+- category: Do Not Want
+  name: Oh Hell No
+  file: /gifs/oh-hell-no.gif
+  tags: [ hell, swear, nope ]
+
+- category: Hype
+  name: Just Do It
+  file: /gifs/justdoit.gif
+  tags: [ Shia, LaBeouf, doit, hype ]
