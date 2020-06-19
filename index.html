@@ -27,17 +27,17 @@
     <h1 class="text-center text-lg mb-12">matt's gifs</h1>
 
     <label class="block mb-12">
-      <input class="form-input mt-1 block w-1/2 mx-auto text-black" placeholder="Search for a gif" x-model="query" @keyup="search">
+      <input class="form-input mt-1 block w-1/2 mx-auto text-black" placeholder="Search for a gif" x-model="query" @keyup="search" autofocus>
     </label>
 
-    <!-- overflow scroll or ping search to top? -->
-    <div class="grid grid-cols-3 gap-4 mx-auto">
+    <div class="grid lg:grid-cols-3 md:grid-cols-2 gap-4 mx-auto">
       <template x-for="r in results" :key="r.file">
         <div class="mx-auto text-center">
           <div class="relative">
-            <div @click="copy" class="absolute w-full h-full bg-gray-900 cursor-pointer opacity-0 hover:opacity-50 transition-opacity duration-300 ease-in-out flex items-stretch z-10">
-              <div class="self-center mx-auto text-black z-30">
-                <p class="py-2 px-4 bg-white rounded">Copy</p>
+            <div @click="copy" class="overlay">
+              <div class="overlay-backdrop"></div>
+              <div class="overlay-actions text-black">
+                <p class="py-2 px-4 bg-white rounded hover:bg-gray-300">Copy</p>
                 <input :value="r.file" class="form-input block mt-2 z-50">
               </div>
             </div>

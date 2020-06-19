@@ -18,7 +18,7 @@
   tags: [ awesome, high, five, breaking, bad ]
 - name: Breaking Bad RV
   file: /gifs/bb-rv.gif
-  tags: [ calm, serene, peaceful, tranquil ]
+  tags: [ calm, serene, peaceful, tranquil, relaxing ]
 - name: Beer Me
   file: /gifs/beer-me.gif
   tags: [ awesome, fuck yeah, impressive, best, badass ]
@@ -61,10 +61,10 @@
 - name: He Can't Keep Getting Away With It
   file: /gifs/cant-keep-getting-away.gif
   tags: [ breaking, bad, cry ]
-- name: Carman Sherif
+- name: Cartman Sherif
   file: /gifs/cartman-sherif.gif
   tags: [ south, park, stare, distrust, not, sure if ]
-- name: Carman Wink
+- name: Cartman Wink
   file: /gifs/cartman-wink.gif
   tags: [ south, park ]
 - name: Cat Attack
@@ -190,30 +190,243 @@
 - name: Fix It
   file: /gifs/fix-it.gif
   tags: [ futurama ]
-
-
+- name: Flourish
+  file: /gifs/flourish.gif
+  tags: [ awesome, impressive, hype ]
+- name: Fox Lick
+  file: /gifs/fox-lick.gif
+  tags: [ fail, weird ]
+- name: Fuck You
+  file: /gifs/fuck-1.gif
+  tags: [ contempt ]
+- name: Fuck You
+  file: /gifs/fuck-2.gif
+  tags: [ contempt ]
+- name: Fuck You
+  file: /gifs/fuck-3.gif
+  tags: [ contempt ]
+- name: Fuck You
+  file: /gifs/fuck-4.gif
+  tags: [ contempt ]
+- name: Fuck You
+  file: /gifs/fuck-you-2.gif
+  tags: [ contempt ]
+- name: Fuck You
+  file: /gifs/fuck-you-cat.gif
+  tags: [ contempt, cat ]
+- name: Register This
+  file: /gifs/fuck-you-finger.gif
+  tags: [ contempt, breaking, bad ]
+- name: Fuck You
+  file: /gifs/fuck-you.gif
+  tags: [ contempt, breaking, bad, angry ]
+- name: Fuck your Eyebrows
+  file: /gifs/fuck-your-eyebrows.gif
+  tags: [ contempt, breaking, bad, angry ]
+- name: Fucking People
+  file: /gifs/fucking-people.gif
+  tags: [ work, contempt ]
+- name: Git Merge
+  file: /gifs/git-merge.gif
+  tags: [ dev, developer ]
+- name: Slipper Fail
+  file: /gifs/glued-slippers.gif
+  tags: [ ]
+- name: Good Point
+  file: /gifs/good-point.gif
+  tags: [ ]
+- name: Hide
+  file: /gifs/hide.gif
+  tags: [ breaking, bad, hiding ]
+- name: Self Five
+  file: /gifs/high-five-30rock.jpg
+  tags: [ awesome, high, five ]
+- name: High Fives
+  file: /gifs/high-fives.gif
+  tags: [ awesome, hype ]
+- name: How's It Feel?
+  file: /gifs/hows-it-feel.gif
+  tags: [ ]
+- name: I Won
+  file: /gifs/i-won.gif
+  tags: [ breaking, bad, winning ]
+- name: I'm an Adult
+  file: /gifs/im-an-adult.gif
+  tags: []
+- name: I'm in Charge
+  file: /gifs/im-in-charge.gif
+  tags: [ breaking, bad ]
+- name: I'm Out
+  file: /gifs/im-out.gif
+  tags: [ cat ]
+- name: Sarcastic Clap
+  file: /gifs/joker-clap.gif
+  tags: [ clapping ]
+- name: Just Do It
+  file: /gifs/justdoit.gif
+  tags: [ Shia, LaBeouf, doit, hype ]
+- name: Kickball Fail
+  file: /gifs/kickball-fail.gif
+  tags: [ ]
+- name: Goat
+  file: /gifs/kidding-goat.gif
+  tags: [ kidding, weird, idwiw ]
+- name: Panda Fail
+  file: /gifs/kidding-panda-fall.gif
+  tags: [ weird, kidding ]
+- name: Knowledge
+  file: /gifs/knowledge.gif
+  tags: [ til ]
+- name: Magic
+  file: /gifs/magic.gif
+  tags: [ ]
+- name: Mascot Fail
+  file: /gifs/mascot-fail.gif
+  tags: [ ]
+- name: Never Trust Anybody
+  file: /gifs/never-trust-anybody.gif
+  tags: [ fail ]
+- name: Nice Try Asshole
+  file: /gifs/nice-try-asshole.gif
+  tags: [ breaking, bad, contempt, asshole ]
+- name: Nope
+  file: /gifs/nope.gif
+  tags: [ shot, down ]
+- name: Not what you think it means
+  file: /gifs/not-what-you-think-it-means.gif
+  tags: [ confused ]
+- name: Oh God
+  file: /gifs/oh-god.gif
+  tags: [ breaking, bad ]
+- name: Oh Hell No
+  file: /gifs/oh-hell-no.gif
+  tags: [ hell, swear, nope ]
+- name: Oh Shit
+  file: /gifs/oh-shi.gif
+  tags: [ out, nope ]
+- name: Roof Pizza
+  file: /gifs/pizza-roof.gif
+  tags: [ breaking, bad, angry ]
+- name: Pogo
+  file: /gifs/pogo.gif
+  tags: [ hype, awesome ]
+- name: Prepare
+  file: /gifs/prepare.gif
+  tags: [ ]
+- name: To Professionalism
+  file: /gifs/professionalism.gif
+  tags: [ drink, drinking, drunk ]
+- name: Rain
+  file: /gifs/rain.gif
+  tags: [ money ]
+- name: Relax
+  file: /gifs/relax.gif
+  tags: [ breaking, bad, serene, calm, relaxing, peaceful, tranquil ]
+- name: Rock On
+  file: /gifs/rock-on.gif
+  tags: [ awesome, 'yes' ]
+- name: Smile
+  file: /gifs/ron-swanson-smile.gif
+  tags: [ happy ]
+- name: Run
+  file: /gifs/run.gif
+  tags: [ breaking, bad ]
+- name: Sad Doctor
+  file: /gifs/sad-doctor.gif
+  tags: [ who ]
+- name: Sarcasm Detector
+  file: /gifs/sarcasm-detector.gif
+  tags: [ sarcastic ]
+- name: Sarcastic Clap
+  file: /gifs/sarcastic-clap.gif
+  tags: [ sarcasm, not, impressed ]
+- name: Screaming
+  file: /gifs/screaming-2.gif
+  tags: [ stress, breaking, bad ]
+- name: Screaming
+  file: /gifs/screaming.gif
+  tags: [ breaking, bad, upset ]
+- name: Screw You Guys, I'm Going Home
+  file: /gifs/screw-you-guys-im-going-home.gif
+  tags: [ south, park, cartman ]
+- name: Snow Cat
+  file: /gifs/snowcat.gif
+  tags: [ ]
+- name: Snuggle Cat
+  file: /gifs/snuggle-cat.gif
+  tags: [ cute ]
+- name: Awkward Stare
+  file: /gifs/stare-awkward.gif
+  tags: [ uncomfortable, cool, story, bro ]
+- name: Stare
+  file: /gifs/stare.gif
+  tags: [ breaking, bad ]
+- name: Stay out of my territory
+  file: /gifs/stay-out-of-my-territory.gif
+  tags: [ breaking, bad ]
+- name: Taco Cat
+  file: /gifs/taco-cat-o.gif
+  tags: [ nyan, food ]
+- name: Taco Fling
+  file: /gifs/taco-fling.gif
+  tags: [ food ]
+- name: Taco?
+  file: /gifs/taco-yn.gif
+  tags: [ food ]
+- name: Taco
+  file: /gifs/taco.gif
+  tags: [ food ]
+- name: Terrific
+  file: /gifs/terrific.gif
+  tags: [ awesome ]
+- name: That'll Work
+  file: /gifs/thatll-work.gif
+  tags: [ good, enough ]
+- name: This is my hell
+  file: /gifs/this-is-my-hell.gif
+  tags: [ do not want ]
 - name: Thrust
   file: /gifs/thrust.gif
   tags: [ awesome, hype, fuck, yeah ]
-
-- category: Contempt
-  name: Nice Try Asshole
-  file: /gifs/nice-try-asshole.gif
+- name: TSwift Dance
+  file: /gifs/tswift-dance.gif
+  tags: [ hype, dancing ]
+- name: Turtle Fail
+  file: /gifs/turtle-fail.gif
+  tags: [ ]
+- name: Uneasy
+  file: /gifs/uneasy.gif
+  tags: [ unsure ]
+- name: Walking Cat
+  file: /gifs/walking-cat.gif
+  tags: [ nope, leave ]
+- name: Wat
+  file: /gifs/wat.gif
+  tags: [ what, confused ]
+- name: Whaaat
+  file: /gifs/whaaat.gif
+  tags: [ what ]
+- name: What
+  file: /gifs/what.gif
+  tags: [ breaking, bad, confused ]
+- name: Why am I doing this?
+  file: /gifs/why-am-i-doing-this.gif
+  tags: [ ]
+- name: Wrestling Fail
+  file: /gifs/wrestling-fail.gif
+  tags: [ ]
+- name: Yeah Bitch
+  file: /gifs/yeah-bitch.gif
+  tags: [ hype, awesome, breaking, bad ]
+- name: You got me
+  file: /gifs/you-got-me.gif
   tags: [ breaking, bad ]
-
-- category: Cool Story Bro
-  name: Stare
-  file: /gifs/stare-awkward.gif
-  tags: [ akward, uncomfortable ]
-
-
-
-- category: Do Not Want
-  name: Oh Hell No
-  file: /gifs/oh-hell-no.gif
-  tags: [ hell, swear, nope ]
-
-- category: Hype
-  name: Just Do It
-  file: /gifs/justdoit.gif
-  tags: [ Shia, LaBeouf, doit, hype ]
+- name: You sure about that?
+  file: /gifs/you-sure-about-that.gif
+  tags: [ question, unsure ]
+- name: You're God Damn Right
+  file: /gifs/youre-god-damn-right.gif
+  tags: [ breaking, bad ]
+- name: Yum
+  file: /gifs/yum.gif
+  tags: [ food ]

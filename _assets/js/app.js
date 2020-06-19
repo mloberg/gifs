@@ -1,5 +1,6 @@
 import "alpinejs";
 import lunr from "lunr";
+import { shuffle } from "lodash";
 
 window.gifs = () => {
     return {
@@ -28,6 +29,9 @@ window.gifs = () => {
 
                 gifs.forEach(img => this.add(img));
             });
+
+            // load some random gifs
+            this.results = shuffle(gifs).slice(0, 6);
         },
         search() {
             if (this.query.length < 3) {

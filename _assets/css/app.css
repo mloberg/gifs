@@ -3,11 +3,31 @@
 @tailwind utilities;
 
 .toast {
-  @apply absolute;
-  left: 50%;
+  @apply fixed z-50;
+  left: 2rem;
+  bottom: 2rem;
 }
 
 .toast-message {
   @apply relative;
-  left: -50%;
+}
+
+.overlay {
+  @apply absolute w-full h-full flex items-stretch cursor-pointer;
+}
+
+.overlay-backdrop {
+  @apply absolute w-full h-full bg-gray-900 opacity-0 z-10;
+}
+
+.overlay:hover .overlay-backdrop {
+  @apply opacity-50 transition-opacity duration-300 ease-in-out;
+}
+
+.overlay-actions {
+  @apply self-center mx-auto text-black z-30 opacity-0;
+}
+
+.overlay:hover .overlay-actions {
+  @apply opacity-100 transition-opacity duration-300 ease-in-out;
 }
