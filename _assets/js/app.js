@@ -14,6 +14,7 @@ window.gifs = () => {
             const data = await resp.json();
             const gifs = data.map(gif => {
                 gif.file = new URL(gif.file, window.location.href).toString();
+                gif.frame = new URL(gif.frame, window.location.href).toString();
                 return gif;
             });
 
@@ -32,6 +33,15 @@ window.gifs = () => {
 
             // load some random gifs
             this.results = shuffle(gifs).slice(0, 6);
+        },
+        loadGif(event) {
+            const target = event.target;
+            const src = target.getAttribute('data-src');
+            const img = new Image();
+            img.onload = function() {
+                target.src = this.src;
+            };
+            img.src = src;
         },
         search() {
             if (this.query.length < 3) {

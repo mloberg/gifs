@@ -41,7 +41,7 @@
                 <input :value="r.file" class="form-input block mt-2 z-50">
               </div>
             </div>
-            <img :src="r.file" :alt="r.name" class="object-center">
+            <img class="object-center" :src="r.frame" :alt="r.name" :data-src="r.file" @load.once="loadGif">
           </div>
           <span x-text="r.name"></span>
         </div>

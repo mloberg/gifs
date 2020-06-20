@@ -1,432 +1,576 @@
 - name: 100% Awesome
   file: /gifs/100-percent-awesome.gif
+  frame: /gifs/frames/100-percent-awesome.jpg
   tags: [ himym, barney, stinson, confident ]
 - name: Angry Face
   file: /gifs/angry-face.gif
+  frame: /gifs/frames/angry-face.jpg
   tags: [ angry, breaking, bad ]
 - name: Collapse
   file: /gifs/bb-collapse.gif
+  frame: /gifs/frames/bb-collapse.jpg
   tags: [ breaking, bad, sad, cry ]
 - name: Gale Dancing
   file: /gifs/bb-dance.gif
+  frame: /gifs/frames/bb-dance.jpg
   tags: [ dance, dancing, happy, breaking, bad ]
 - name: Walter White Explosion
   file: /gifs/bb-explosion.gif
+  frame: /gifs/frames/bb-explosion.jpg
   tags: [ badass, breaking, bad ]
 - name: Breaking Bad High Five
   file: /gifs/bb-high-five.gif
+  frame: /gifs/frames/bb-high-five.jpg
   tags: [ awesome, high, five, breaking, bad ]
 - name: Breaking Bad RV
   file: /gifs/bb-rv.gif
+  frame: /gifs/frames/bb-rv.jpg
   tags: [ calm, serene, peaceful, tranquil, relaxing ]
 - name: Beer Me
   file: /gifs/beer-me.gif
+  frame: /gifs/frames/beer-me.jpg
   tags: [ awesome, fuck yeah, impressive, best, badass ]
 - name: Car Jump
   file: /gifs/best-car-jump.gif
+  frame: /gifs/frames/best-car-jump.jpg
   tags: [ awesome, best, impressive ]
 - name: B&W Clapping
   file: /gifs/best-clap.gif
+  frame: /gifs/frames/best-clap.jpg
   tags: [ clap, praise ]
 - name: Kid Dancing
   file: /gifs/best-kid-dancing.gif
+  frame: /gifs/frames/best-kid-dancing.jpg
   tags: [ dance, dancing, moves, awesome, best ]
 - name: Star Trek Nod
   file: /gifs/best-star-trek.gif
+  frame: /gifs/frames/best-star-trek.jpg
   tags: [ awesome, best, thanks ]
 - name: Blank Stare
   file: /gifs/blank-stare.gif
+  frame: /gifs/frames/blank-stare.jpg
   tags: [ bored, breaking, bad, expressionless ]
 - name: Bored
   file: /gifs/bored.gif
+  frame: /gifs/frames/bored.jpg
   tags: [ breaking, bad ]
 - name: Bored
   file: /gifs/bored-2.gif
+  frame: /gifs/frames/bored-2.jpg
   tags: []
 - name: Bring It On
   file: /gifs/bring-it-on-psycho-cat.gif
+  frame: /gifs/frames/bring-it-on-psycho-cat.jpg
   tags: [ crazy, challenge, cat ]
 - name: Brush Off
   file: /gifs/brush-off.gif
+  frame: /gifs/frames/brush-off.jpg
   tags: [ star, wars, not, impressed ]
 - name: This is Bullshit
   file: /gifs/bullshit.gif
+  frame: /gifs/frames/bullshit.jpg
   tags: [ breaking, bad ]
 - name: Burn It
   file: /gifs/burn-it.gif
+  frame: /gifs/frames/burn-it.jpg
   tags: [ bobs, burgers, fire ]
 - name: Burn
   file: /gifs/burn.gif
+  frame: /gifs/frames/burn.jpg
   tags: [ fire ]
 - name: He Can't Keep Getting Away With It
   file: /gifs/cant-keep-getting-away.gif
-  tags: [ breaking, bad, cry ]
+  frame: /gifs/frames/cant-keep-getting-away.jpg
+  tags: [ breaking, bad, cry, frustrated ]
 - name: Cartman Sherif
   file: /gifs/cartman-sherif.gif
+  frame: /gifs/frames/cartman-sherif.jpg
   tags: [ south, park, stare, distrust, not, sure if ]
 - name: Cartman Wink
   file: /gifs/cartman-wink.gif
+  frame: /gifs/frames/cartman-wink.jpg
   tags: [ south, park ]
 - name: Cat Attack
   file: /gifs/cat-attack-2.gif
+  frame: /gifs/frames/cat-attack-2.jpg
   tags: [ dog, challenge ]
 - name: Cat Attack
   file: /gifs/cat-attack.gif
+  frame: /gifs/frames/cat-attack.jpg
   tags: []
 - name: Cat Eating Bannana
   file: /gifs/cat-bannana.gif
+  frame: /gifs/frames/cat-bannana.jpg
   tags: [ weird ]
 - name: Cat in Box
   file: /gifs/cat-box.gif
+  frame: /gifs/frames/cat-box.jpg
   tags: []
 - name: Cat Catch
   file: /gifs/cat-catch.gif
+  frame: /gifs/frames/cat-catch.jpg
   tags: []
 - name: Cat Fail
   file: /gifs/cat-fail.gif
+  frame: /gifs/frames/cat-fail.jpg
   tags: []
 - name: Cat Jump
   file: /gifs/cat-jump.gif
+  frame: /gifs/frames/cat-jump.jpg
   tags: [ crazy ]
 - name: Crazy Cats
   file: /gifs/cats.gif
+  frame: /gifs/frames/cats.jpg
   tags: [ crazy, weird ]
 - name: Challenge Accepted
   file: /gifs/challenge-accepted-2.gif
+  frame: /gifs/frames/challenge-accepted-2.jpg
   tags: [ himym, barney, stinson ]
 - name: Challenge Accepted
   file: /gifs/challenge-accepted.gif
+  frame: /gifs/frames/challenge-accepted.jpg
   tags: [ himym, barney, stinson ]
 - name: Conversation Over
   file: /gifs/conversation-over-batman.gif
+  frame: /gifs/frames/conversation-over-batman.jpg
   tags: [ batman ]
 - name: Conversation Over
   file: /gifs/conversation-over.gif
+  frame: /gifs/frames/conversation-over.jpg
   tags: [ eye, roll ]
 - name: Head Bob
   file: /gifs/crazy-head-bob.gif
+  frame: /gifs/frames/crazy-head-bob.jpg
   tags: [ crazy, 'yes' ]
 - name: Crazy Monkey
   file: /gifs/crazy-monkey.gif
+  frame: /gifs/frames/crazy-monkey.jpg
   tags: []
 - name: Cry
   file: /gifs/cry-2.gif
+  frame: /gifs/frames/cry-2.jpg
   tags: [ breaking, bad ]
 - name: Cry
   file: /gifs/cry.gif
+  frame: /gifs/frames/cry.jpg
   tags: [ breaking, bad, shaking, head ]
 - name: CSS
   file: /gifs/css.gif
+  frame: /gifs/frames/css.jpg
   tags: [ family, guy, web, development, frustrated ]
 - name: Didn't Read
   file: /gifs/didnt-read.gif
+  frame: /gifs/frames/didnt-read.jpg
   tags: [ tldr ]
 - name: Disapointed
   file: /gifs/disapointed.gif
+  frame: /gifs/frames/disapointed.jpg
   tags: [ disaprove, nope ]
 - name: Do I Give a Fuck
   file: /gifs/do-i-give-a-fuck.gif
+  frame: /gifs/frames/do-i-give-a-fuck.jpg
   tags: [ swear ]
 - name: Dog
   file: /gifs/dog-vacuum.gif
+  frame: /gifs/frames/dog-vacuum.jpg
   tags: []
 - name: Dollar
   file: /gifs/dollar.gif
+  frame: /gifs/frames/dollar.jpg
   tags: [ breaking, bad, money, bribe ]
 - name: Don't Give a Fuck
   file: /gifs/dont-give-a-fuck.gif
+  frame: /gifs/frames/dont-give-a-fuck.jpg
   tags: [ star, wars, swear ]
 - name: Don't Touch
   file: /gifs/dont-touch.gif
+  frame: /gifs/frames/dont-touch.jpg
   tags: [ breaking, rules ]
 - name: Drink
   file: /gifs/drink.gif
+  frame: /gifs/frames/drink.jpg
   tags: []
 - name: Drinking
   file: /gifs/drinking.gif
+  frame: /gifs/frames/drinking.jpg
   tags: []
 - name: Drop Kick
   file: /gifs/drop-kick.gif
+  frame: /gifs/frames/drop-kick.jpg
   tags: [ unexpected ]
 - name: Not Impressed
   file: /gifs/dwight-not-impressed.gif
+  frame: /gifs/frames/dwight-not-impressed.jpg
   tags: [ contempt ]
 - name: Punch
   file: /gifs/dwigth-punch.gif
+  frame: /gifs/frames/dwigth-punch.jpg
   tags: []
 - name: Epic Fail
   file: /gifs/epic-fail.gif
+  frame: /gifs/frames/epic-fail.jpg
   tags: [ breaking, bad ]
 - name: Everybody Wins
   file: /gifs/everybody-wins.gif
+  frame: /gifs/frames/everybody-wins.jpg
   tags: [ breaking, bad ]
 - name: Everything is Awesome
   file: /gifs/everything-is-awesome.gif
+  frame: /gifs/frames/everything-is-awesome.jpg
   tags: []
 - name: Excited
   file: /gifs/excited.gif
+  frame: /gifs/frames/excited.jpg
   tags: []
 - name: I Don't Know What I Expected
   file: /gifs/expected.gif
+  frame: /gifs/frames/expected.jpg
   tags: [ arrested, development, disbelief ]
 - name: Car Explosion
   file: /gifs/explosion.gif
+  frame: /gifs/frames/explosion.jpg
   tags: [ breaking, bad, badass ]
 - name: Expressionless
   file: /gifs/expresionless.gif
+  frame: /gifs/frames/expresionless.jpg
   tags: [ breaking, bad ]
 - name: Eye Roll
   file: /gifs/eye-roll.gif
+  frame: /gifs/frames/eye-roll.jpg
   tags: [ disbelief ]
 - name: Facepalm
   file: /gifs/facepalm.gif
+  frame: /gifs/frames/facepalm.jpg
   tags: [ breaking, bad, face, palm ]
 - name: Dunk Fail
   file: /gifs/fail-dunk.gif
+  frame: /gifs/frames/fail-dunk.jpg
   tags: []
 - name: Rollercoaster Fail
   file: /gifs/fail-rollercoaster.gif
+  frame: /gifs/frames/fail-rollercoaster.jpg
   tags: []
 - name: Fix It
   file: /gifs/fix-it.gif
+  frame: /gifs/frames/fix-it.jpg
   tags: [ futurama ]
 - name: Flourish
   file: /gifs/flourish.gif
+  frame: /gifs/frames/flourish.jpg
   tags: [ awesome, impressive, hype ]
 - name: Fox Lick
   file: /gifs/fox-lick.gif
+  frame: /gifs/frames/fox-lick.jpg
   tags: [ fail, weird ]
 - name: Fuck You
   file: /gifs/fuck-1.gif
+  frame: /gifs/frames/fuck-1.jpg
   tags: [ contempt ]
 - name: Fuck You
   file: /gifs/fuck-2.gif
+  frame: /gifs/frames/fuck-2.jpg
   tags: [ contempt ]
 - name: Fuck You
   file: /gifs/fuck-3.gif
+  frame: /gifs/frames/fuck-3.jpg
   tags: [ contempt ]
 - name: Fuck You
   file: /gifs/fuck-4.gif
+  frame: /gifs/frames/fuck-4.jpg
   tags: [ contempt ]
 - name: Fuck You
   file: /gifs/fuck-you-2.gif
+  frame: /gifs/frames/fuck-you-2.jpg
   tags: [ contempt ]
 - name: Fuck You
   file: /gifs/fuck-you-cat.gif
+  frame: /gifs/frames/fuck-you-cat.jpg
   tags: [ contempt, cat ]
 - name: Register This
   file: /gifs/fuck-you-finger.gif
+  frame: /gifs/frames/fuck-you-finger.jpg
   tags: [ contempt, breaking, bad ]
 - name: Fuck You
   file: /gifs/fuck-you.gif
+  frame: /gifs/frames/fuck-you.jpg
   tags: [ contempt, breaking, bad, angry ]
 - name: Fuck your Eyebrows
   file: /gifs/fuck-your-eyebrows.gif
+  frame: /gifs/frames/fuck-your-eyebrows.jpg
   tags: [ contempt, breaking, bad, angry ]
 - name: Fucking People
   file: /gifs/fucking-people.gif
+  frame: /gifs/frames/fucking-people.jpg
   tags: [ work, contempt ]
 - name: Git Merge
   file: /gifs/git-merge.gif
+  frame: /gifs/frames/git-merge.jpg
   tags: [ dev, developer ]
 - name: Slipper Fail
   file: /gifs/glued-slippers.gif
+  frame: /gifs/frames/glued-slippers.jpg
   tags: [ ]
 - name: Good Point
   file: /gifs/good-point.gif
+  frame: /gifs/frames/good-point.jpg
   tags: [ ]
 - name: Hide
   file: /gifs/hide.gif
+  frame: /gifs/frames/hide.jpg
   tags: [ breaking, bad, hiding ]
 - name: Self Five
-  file: /gifs/high-five-30rock.jpg
+  file: /gifs/high-five-30rock.gif
+  frame: /gifs/frames/high-five-30rock.jpg
   tags: [ awesome, high, five ]
 - name: High Fives
   file: /gifs/high-fives.gif
+  frame: /gifs/frames/high-fives.jpg
   tags: [ awesome, hype ]
 - name: How's It Feel?
   file: /gifs/hows-it-feel.gif
+  frame: /gifs/frames/hows-it-feel.jpg
   tags: [ ]
 - name: I Won
   file: /gifs/i-won.gif
+  frame: /gifs/frames/i-won.jpg
   tags: [ breaking, bad, winning ]
 - name: I'm an Adult
   file: /gifs/im-an-adult.gif
+  frame: /gifs/frames/im-an-adult.jpg
   tags: []
 - name: I'm in Charge
   file: /gifs/im-in-charge.gif
+  frame: /gifs/frames/im-in-charge.jpg
   tags: [ breaking, bad ]
 - name: I'm Out
   file: /gifs/im-out.gif
+  frame: /gifs/frames/im-out.jpg
   tags: [ cat ]
 - name: Sarcastic Clap
   file: /gifs/joker-clap.gif
+  frame: /gifs/frames/joker-clap.jpg
   tags: [ clapping ]
 - name: Just Do It
   file: /gifs/justdoit.gif
+  frame: /gifs/frames/justdoit.jpg
   tags: [ Shia, LaBeouf, doit, hype ]
 - name: Kickball Fail
   file: /gifs/kickball-fail.gif
+  frame: /gifs/frames/kickball-fail.jpg
   tags: [ ]
 - name: Goat
   file: /gifs/kidding-goat.gif
+  frame: /gifs/frames/kidding-goat.jpg
   tags: [ kidding, weird, idwiw ]
 - name: Panda Fail
   file: /gifs/kidding-panda-fall.gif
+  frame: /gifs/frames/kidding-panda-fall.jpg
   tags: [ weird, kidding ]
 - name: Knowledge
   file: /gifs/knowledge.gif
+  frame: /gifs/frames/knowledge.jpg
   tags: [ til ]
 - name: Magic
   file: /gifs/magic.gif
+  frame: /gifs/frames/magic.jpg
   tags: [ ]
 - name: Mascot Fail
   file: /gifs/mascot-fail.gif
+  frame: /gifs/frames/mascot-fail.jpg
   tags: [ ]
 - name: Never Trust Anybody
   file: /gifs/never-trust-anybody.gif
+  frame: /gifs/frames/never-trust-anybody.jpg
   tags: [ fail ]
 - name: Nice Try Asshole
   file: /gifs/nice-try-asshole.gif
+  frame: /gifs/frames/nice-try-asshole.jpg
   tags: [ breaking, bad, contempt, asshole ]
 - name: Nope
   file: /gifs/nope.gif
+  frame: /gifs/frames/nope.jpg
   tags: [ shot, down ]
 - name: Not what you think it means
   file: /gifs/not-what-you-think-it-means.gif
+  frame: /gifs/frames/not-what-you-think-it-means.jpg
   tags: [ confused ]
 - name: Oh God
   file: /gifs/oh-god.gif
+  frame: /gifs/frames/oh-god.jpg
   tags: [ breaking, bad ]
 - name: Oh Hell No
   file: /gifs/oh-hell-no.gif
+  frame: /gifs/frames/oh-hell-no.jpg
   tags: [ hell, swear, nope ]
 - name: Oh Shit
   file: /gifs/oh-shi.gif
+  frame: /gifs/frames/oh-shi.jpg
   tags: [ out, nope ]
 - name: Roof Pizza
   file: /gifs/pizza-roof.gif
+  frame: /gifs/frames/pizza-roof.jpg
   tags: [ breaking, bad, angry ]
 - name: Pogo
   file: /gifs/pogo.gif
+  frame: /gifs/frames/pogo.jpg
   tags: [ hype, awesome ]
 - name: Prepare
   file: /gifs/prepare.gif
+  frame: /gifs/frames/prepare.jpg
   tags: [ ]
 - name: To Professionalism
   file: /gifs/professionalism.gif
+  frame: /gifs/frames/professionalism.jpg
   tags: [ drink, drinking, drunk ]
 - name: Rain
   file: /gifs/rain.gif
+  frame: /gifs/frames/rain.jpg
   tags: [ money ]
 - name: Relax
   file: /gifs/relax.gif
+  frame: /gifs/frames/relax.jpg
   tags: [ breaking, bad, serene, calm, relaxing, peaceful, tranquil ]
 - name: Rock On
   file: /gifs/rock-on.gif
+  frame: /gifs/frames/rock-on.jpg
   tags: [ awesome, 'yes' ]
 - name: Smile
   file: /gifs/ron-swanson-smile.gif
+  frame: /gifs/frames/ron-swanson-smile.jpg
   tags: [ happy ]
 - name: Run
   file: /gifs/run.gif
+  frame: /gifs/frames/run.jpg
   tags: [ breaking, bad ]
 - name: Sad Doctor
   file: /gifs/sad-doctor.gif
+  frame: /gifs/frames/sad-doctor.jpg
   tags: [ who ]
 - name: Sarcasm Detector
   file: /gifs/sarcasm-detector.gif
+  frame: /gifs/frames/sarcasm-detector.jpg
   tags: [ sarcastic ]
 - name: Sarcastic Clap
   file: /gifs/sarcastic-clap.gif
+  frame: /gifs/frames/sarcastic-clap.jpg
   tags: [ sarcasm, not, impressed ]
 - name: Screaming
   file: /gifs/screaming-2.gif
+  frame: /gifs/frames/screaming-2.jpg
   tags: [ stress, breaking, bad ]
 - name: Screaming
   file: /gifs/screaming.gif
+  frame: /gifs/frames/screaming.jpg
   tags: [ breaking, bad, upset ]
 - name: Screw You Guys, I'm Going Home
   file: /gifs/screw-you-guys-im-going-home.gif
+  frame: /gifs/frames/screw-you-guys-im-going-home.jpg
   tags: [ south, park, cartman ]
 - name: Snow Cat
   file: /gifs/snowcat.gif
+  frame: /gifs/frames/snowcat.jpg
   tags: [ ]
 - name: Snuggle Cat
   file: /gifs/snuggle-cat.gif
+  frame: /gifs/frames/snuggle-cat.jpg
   tags: [ cute ]
 - name: Awkward Stare
   file: /gifs/stare-awkward.gif
+  frame: /gifs/frames/stare-awkward.jpg
   tags: [ uncomfortable, cool, story, bro ]
 - name: Stare
   file: /gifs/stare.gif
+  frame: /gifs/frames/stare.jpg
   tags: [ breaking, bad ]
 - name: Stay out of my territory
   file: /gifs/stay-out-of-my-territory.gif
+  frame: /gifs/frames/stay-out-of-my-territory.jpg
   tags: [ breaking, bad ]
 - name: Taco Cat
   file: /gifs/taco-cat-o.gif
+  frame: /gifs/frames/taco-cat-o.jpg
   tags: [ nyan, food ]
 - name: Taco Fling
   file: /gifs/taco-fling.gif
+  frame: /gifs/frames/taco-fling.jpg
   tags: [ food ]
 - name: Taco?
   file: /gifs/taco-yn.gif
+  frame: /gifs/frames/taco-yn.jpg
   tags: [ food ]
 - name: Taco
   file: /gifs/taco.gif
+  frame: /gifs/frames/taco.jpg
   tags: [ food ]
 - name: Terrific
   file: /gifs/terrific.gif
+  frame: /gifs/frames/terrific.jpg
   tags: [ awesome ]
 - name: That'll Work
   file: /gifs/thatll-work.gif
+  frame: /gifs/frames/thatll-work.jpg
   tags: [ good, enough ]
 - name: This is my hell
   file: /gifs/this-is-my-hell.gif
+  frame: /gifs/frames/this-is-my-hell.jpg
   tags: [ do not want ]
 - name: Thrust
   file: /gifs/thrust.gif
+  frame: /gifs/frames/thrust.jpg
   tags: [ awesome, hype, fuck, yeah ]
 - name: TSwift Dance
   file: /gifs/tswift-dance.gif
+  frame: /gifs/frames/tswift-dance.jpg
   tags: [ hype, dancing ]
 - name: Turtle Fail
   file: /gifs/turtle-fail.gif
+  frame: /gifs/frames/turtle-fail.jpg
   tags: [ ]
 - name: Uneasy
   file: /gifs/uneasy.gif
+  frame: /gifs/frames/uneasy.jpg
   tags: [ unsure ]
 - name: Walking Cat
   file: /gifs/walking-cat.gif
+  frame: /gifs/frames/walking-cat.jpg
   tags: [ nope, leave ]
 - name: Wat
   file: /gifs/wat.gif
+  frame: /gifs/frames/wat.jpg
   tags: [ what, confused ]
 - name: Whaaat
   file: /gifs/whaaat.gif
+  frame: /gifs/frames/whaaat.jpg
   tags: [ what ]
 - name: What
   file: /gifs/what.gif
+  frame: /gifs/frames/what.jpg
   tags: [ breaking, bad, confused ]
 - name: Why am I doing this?
   file: /gifs/why-am-i-doing-this.gif
+  frame: /gifs/frames/why-am-i-doing-this.jpg
   tags: [ ]
 - name: Wrestling Fail
   file: /gifs/wrestling-fail.gif
+  frame: /gifs/frames/wrestling-fail.jpg
   tags: [ ]
 - name: Yeah Bitch
   file: /gifs/yeah-bitch.gif
+  frame: /gifs/frames/yeah-bitch.jpg
   tags: [ hype, awesome, breaking, bad ]
 - name: You got me
   file: /gifs/you-got-me.gif
+  frame: /gifs/frames/you-got-me.jpg
   tags: [ breaking, bad ]
 - name: You sure about that?
   file: /gifs/you-sure-about-that.gif
+  frame: /gifs/frames/you-sure-about-that.jpg
   tags: [ question, unsure ]
 - name: You're God Damn Right
   file: /gifs/youre-god-damn-right.gif
+  frame: /gifs/frames/youre-god-damn-right.jpg
   tags: [ breaking, bad ]
 - name: Yum
   file: /gifs/yum.gif
+  frame: /gifs/frames/yum.jpg
   tags: [ food ]
