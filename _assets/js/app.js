@@ -10,7 +10,7 @@ window.gifs = () => {
         results: [],
         toast: false,
         async init() {
-            const resp = await fetch('/gifs.json');
+            const resp = await fetch("/gifs.json");
             const data = await resp.json();
             const gifs = data.map(gif => {
                 gif.file = new URL(gif.file, window.location.href).toString();
@@ -32,11 +32,15 @@ window.gifs = () => {
             });
 
             // load some random gifs
-            this.results = shuffle(gifs).slice(0, 6);
+            this.results = shuffle(gifs).slice(0, 3);
         },
         loadGif(event) {
             const target = event.target;
-            const src = target.getAttribute('data-src');
+            if (target.src.endsWith("gif")) {
+                return;
+            }
+
+            const src = target.getAttribute("data-src");
             const img = new Image();
             img.onload = function() {
                 target.src = this.src;
@@ -56,7 +60,7 @@ window.gifs = () => {
         copy(event) {
             const input = event.target.querySelector("input") || event.target.parentNode.querySelector("input");
             input.select();
-            if (document.execCommand('copy')) {
+            if (document.execCommand("copy")) {
                 this.toast = true;
                 setTimeout(() => this.toast = false, 5000);
             }
