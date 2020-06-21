@@ -2,7 +2,8 @@
     "private": true,
     "scripts": {
         "dev": "encore dev",
-        "prod": "encore prod"
+        "prod": "encore prod",
+        "start": "concurrently -k -p \"[{name}]\" -n \"webpack,jekyll\" -c \"yellow.bold,cyan.bold\" \"npm run dev -- --watch\" \"bundle exec jekyll serve --watch\""
     },
     "dependencies": {
         "@babel/plugin-transform-runtime": "^7.10.1",
@@ -14,5 +15,8 @@
         "lunr": "^2.3.8",
         "postcss-loader": "^3.0.0",
         "tailwindcss": "^1.4.6"
+    },
+    "devDependencies": {
+        "concurrently": "^5.2.0"
     }
 }
