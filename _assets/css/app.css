@@ -4,12 +4,12 @@
 
 .toast {
   @apply fixed z-50;
-  left: 2rem;
-  bottom: 2rem;
+  left: 50%;
 }
 
 .toast-message {
   @apply relative;
+  left: -50%;
 }
 
 .overlay {
