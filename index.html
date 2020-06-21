@@ -38,7 +38,7 @@
               <div class="overlay-backdrop"></div>
               <div class="overlay-actions text-black">
                 <p class="py-2 px-4 bg-white rounded hover:bg-gray-300">Copy</p>
-                <input :value="r.file" class="form-input block mt-2 z-50">
+                <input :value="r.file" class="form-input block mt-2 z-50" disabled>
               </div>
             </div>
             <img class="object-center" :src="r.frame" :alt="r.name" :data-src="r.file" @load="loadGif">

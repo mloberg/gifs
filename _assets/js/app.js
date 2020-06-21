@@ -63,7 +63,10 @@ window.gifs = () => {
             if (document.execCommand("copy")) {
                 this.toast = true;
                 setTimeout(() => this.toast = false, 5000);
+                return;
             }
+            input.removeAttribute("disabled");
+            input.select();
         },
     };
 };
