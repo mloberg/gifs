@@ -1,0 +1,5 @@
+exclude:
+  - "package*.json"
+  - "*.config.js"
+  - bin
+  - README.md
