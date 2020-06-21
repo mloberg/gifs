@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )/.." && pwd )"
+
+abort() {
+  printf "☠️ \033[0;31m%s\033[0m\n" "$1" >&2
+  exit 1
+}
+
+file="$1"
+[ -n "$file" ] || abort "usage: $0 file"
+name="$(basename "$file")"
+name="${name%.*}"
+
+command -v gifsicle >/dev/null || abort "missing gifsicle (brew install gifsicle)"
+command -v jpegoptim >/dev/null || abort "missing jpegoptim (brew install jpegoptim)"
+command -v magick >/dev/null || abort "missing imagemagick (brew install imagemagick)"
+
+target="${DIR}/gifs/${name}.gif"
+frame="${DIR}/gifs/frames/${name}"
+
+[ -f "$target" ] && abort "gif ${name} already exists. Rename and try again."
+
+gifsicle -O3 "$file" --output "$target"
+gifsicle "$target" '#0' > "${frame}.gif"
+magick convert "${frame}.gif" "${frame}.jpg"
+jpegoptim -m60 --strip-all --all-progressive "${frame}.jpg"
+rm "${frame}.gif"
+
+cat <<EOT >> "$DIR/_data/gifs.yaml"
+- name: ${name}
+  file: /gifs/${name}.gif
+  frame: /gifs/frames/${name}.jpg
+  tags: [ ]
+EOT
+
+echo "Modify gif information in _data/gifs.yaml"

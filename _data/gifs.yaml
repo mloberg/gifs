@@ -574,3 +574,7 @@
   file: /gifs/yum.gif
   frame: /gifs/frames/yum.jpg
   tags: [ food ]
+- name: Jim Looking Around
+  file: /gifs/jim-looking-around.gif
+  frame: /gifs/frames/jim-looking-around.jpg
+  tags: [ awkward ]
