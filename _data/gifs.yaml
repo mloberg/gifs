@@ -1042,3 +1042,43 @@
   file: /gifs/dont-understand-the-question.gif
   frame: /gifs/frames/dont-understand-the-question.jpg
   tags: [ arrested development ]
+- name: Happy birthday
+  file: /gifs/happy-birthday.gif
+  frame: /gifs/frames/happy-birthday.jpg
+  tags: [ ]
+- name: It is your birthday
+  file: /gifs/it-is-your-birthday.gif
+  frame: /gifs/frames/it-is-your-birthday.jpg
+  tags: [ ]
+- name: You son of a bitch, I'm in
+  file: /gifs/son-of-a-bitch-im-in.gif
+  frame: /gifs/frames/son-of-a-bitch-im-in.jpg
+  tags: [ rick, morty ]
+- name: Get schwifty
+  file: /gifs/get-schwifty.gif
+  frame: /gifs/frames/get-schwifty.jpg
+  tags: [ dancing, rick, morty ]
+- name: Good job
+  file: /gifs/good-job.gif
+  frame: /gifs/frames/good-job.jpg
+  tags: [ rick, morty ]
+- name: Distraught
+  file: /gifs/distraught.gif
+  frame: /gifs/frames/distraught.jpg
+  tags: [ rick, morty, pained ]
+- name: Can do
+  file: /gifs/can-do.gif
+  frame: /gifs/frames/can-do.jpg
+  tags: [ meeseeks, rick, morty ]
+- name: Rick drinking
+  file: /gifs/rick-drinking.gif
+  frame: /gifs/frames/rick-drinking.jpg
+  tags: [ rick, morty ]
+- name: Let's get this over with
+  file: /gifs/get-this-over-with.gif
+  frame: /gifs/frames/get-this-over-with.jpg
+  tags: [ rick, morty ]
+- name: Show me what you got
+  file: /gifs/show-me-what-you-got.gif
+  frame: /gifs/frames/show-me-what-you-got.jpg
+  tags: [ rick, morty ]
