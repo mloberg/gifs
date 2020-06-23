@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -e
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )/.." && pwd )"
 
@@ -9,6 +10,7 @@ abort() {
 
 file="$1"
 [ -n "$file" ] || abort "usage: $0 file"
+[ -f "$file" ] || abort "no file found: $file"
 name="$(basename "$file")"
 name="${name%.*}"
 
@@ -35,3 +37,4 @@ cat <<EOT >> "$DIR/_data/gifs.yaml"
 EOT
 
 echo "Modify gif information in _data/gifs.yaml"
+rm "$file"

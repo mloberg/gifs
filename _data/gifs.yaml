@@ -578,3 +578,467 @@
   file: /gifs/jim-looking-around.gif
   frame: /gifs/frames/jim-looking-around.jpg
   tags: [ awkward ]
+- name: Lebowski Dancing
+  file: /gifs/lebowski-dancing.gif
+  frame: /gifs/frames/lebowski-dancing.jpg
+  tags: [ dance, big lebowski ]
+- name: No-huh-uh
+  file: /gifs/no-huh-uh.gif
+  frame: /gifs/frames/no-huh-uh.jpg
+  tags: [ big lebowski, nope ]
+- name: Oh Alright
+  file: /gifs/oh-alright.gif
+  frame: /gifs/frames/oh-alright.jpg
+  tags: [ big lebowski, okay ]
+- name: Stoned
+  file: /gifs/stoned.gif
+  frame: /gifs/frames/stoned.jpg
+  tags: [ bored, big lebowski ]
+- name: What
+  file: /gifs/lebowski-what.gif
+  frame: /gifs/frames/lebowski-what.jpg
+  tags: [ big lebowski ]
+- name: No Brakes
+  file: /gifs/no-brakes-on-a-boat.gif
+  frame: /gifs/frames/no-brakes-on-a-boat.jpg
+  tags: [ fail, abort, jump ]
+- name: Booyah
+  file: /gifs/booyah.gif
+  frame: /gifs/frames/booyah.jpg
+  tags: [ boom ]
+- name: Drop the mic
+  file: /gifs/drop-the-mic.gif
+  frame: /gifs/frames/drop-the-mic.jpg
+  tags: [ boom, out ]
+- name: Bring it
+  file: /gifs/luke-cage-bring-it.gif
+  frame: /gifs/frames/luke-cage-bring-it.jpg
+  tags: [ challenge ]
+- name: It's complicated
+  file: /gifs/iron-man-mandarin-complicated.gif
+  frame: /gifs/frames/iron-man-mandarin-complicated.jpg
+  tags: [ ]
+- name: wtf
+  file: /gifs/cheech-wtf.gif
+  frame: /gifs/frames/cheech-wtf.jpg
+  tags: [ ]
+- name: Enough internet
+  file: /gifs/enough-internet.gif
+  frame: /gifs/frames/enough-internet.jpg
+  tags: [ contempt, done ]
+- name: No way
+  file: /gifs/no_way_Neil_deGrasse_Tyson.gif
+  frame: /gifs/frames/no_way_Neil_deGrasse_Tyson.jpg
+  tags: [ contempt, do not want ]
+- name: Glazed look
+  file: /gifs/simon-cowel-glazed-look.gif
+  frame: /gifs/frames/simon-cowel-glazed-look.jpg
+  tags: [ contempt, kidding ]
+- name: Peter Parker Crying
+  file: /gifs/peter-parker-crying.gif
+  frame: /gifs/frames/peter-parker-crying.jpg
+  tags: [ cry ]
+- name: Ace Ventura Dance
+  file: /gifs/ace-ventura-dance.gif
+  frame: /gifs/frames/ace-ventura-dance.jpg
+  tags: [ crazy, weird, dancing ]
+- name: Techno Viking
+  file: /gifs/techno-viking.gif
+  frame: /gifs/frames/techno-viking.jpg
+  tags: [ dance, dancing ]
+- name: Deal With It
+  file: /gifs/deal-with-it-paul-rudd.gif
+  frame: /gifs/frames/deal-with-it-paul-rudd.jpg
+  tags: [ ]
+- name: Disgust
+  file: /gifs/disgust.gif
+  frame: /gifs/frames/disgust.jpg
+  tags: [ ]
+- name: Disgust
+  file: /gifs/disgust-jony-depp.gif
+  frame: /gifs/frames/disgust-jony-depp.jpg
+  tags: [ contempt ]
+- name: Horrified Hippie
+  file: /gifs/horrified-hippie.gif
+  frame: /gifs/frames/horrified-hippie.jpg
+  tags: [ disgust ]
+- name: Gag
+  file: /gifs/jim-carrey-gag.gif
+  frame: /gifs/frames/jim-carrey-gag.jpg
+  tags: [ disgust ]
+- name: Eye roll
+  file: /gifs/stanley-eye-roll.gif
+  frame: /gifs/frames/stanley-eye-roll.jpg
+  tags: [ disgust ]
+- name: aha
+  file: /gifs/aha.gif
+  frame: /gifs/frames/aha.jpg
+  tags: [ excited, breakthrough ]
+- name: Anchorman jump in the air
+  file: /gifs/anchorman-jump-in-air.gif
+  frame: /gifs/frames/anchorman-jump-in-air.jpg
+  tags: [ excited ]
+- name: You're awesome
+  file: /gifs/carl-sagan-youre-awesome.gif
+  frame: /gifs/frames/carl-sagan-youre-awesome.jpg
+  tags: [ excited, awesome ]
+- name: Giggle
+  file: /gifs/giggle.gif
+  frame: /gifs/frames/giggle.jpg
+  tags: [ excited ]
+- name: Exellent
+  file: /gifs/mr-burns-exellent.gif
+  frame: /gifs/frames/mr-burns-exellent.jpg
+  tags: [ Simpsons, excited ]
+- name: Hashtag burn
+  file: /gifs/hashtag-burn-neil-patrick-harris.gif
+  frame: /gifs/frames/hashtag-burn-neil-patrick-harris.jpg
+  tags: [ himym ]
+- name: Oooh
+  file: /gifs/picard-oooh.gif
+  frame: /gifs/frames/picard-oooh.jpg
+  tags: [ burn, excited, star trek ]
+- name: Indiana Jones sandbag
+  file: /gifs/indiana-jones-sand-bag.gif
+  frame: /gifs/frames/indiana-jones-sand-bag.jpg
+  tags: [ careful, focus ]
+- name: Picard slow clap
+  file: /gifs/picard-slow-clap.gif
+  frame: /gifs/frames/picard-slow-clap.jpg
+  tags: [ star trek ]
+- name: Yak shave
+  file: /gifs/yak-shave.gif
+  frame: /gifs/frames/yak-shave.jpg
+  tags: [ complicated, distract ]
+- name: Shufflin robot
+  file: /gifs/shufflin-robot.gif
+  frame: /gifs/frames/shufflin-robot.jpg
+  tags: [ dance, dancing ]
+- name: Sean Connery Fist Pump
+  file: /gifs/Sean-Connery-Fist-Pump-US-Open.gif
+  frame: /gifs/frames/Sean-Connery-Fist-Pump-US-Open.jpg
+  tags: [ excited, yeah ]
+- name: Spicy
+  file: /gifs/stefan-spicy.gif
+  frame: /gifs/frames/stefan-spicy.jpg
+  tags: [ excited ]
+- name: Super Duper
+  file: /gifs/super-duper.gif
+  frame: /gifs/frames/super-duper.jpg
+  tags: [ excited ]
+- name: Picard double facepalm
+  file: /gifs/picard-facepalm-o.gif
+  frame: /gifs/frames/picard-facepalm-o.jpg
+  tags: [ ]
+- name: Picard facepalm
+  file: /gifs/picard-facepalm.gif
+  frame: /gifs/frames/picard-facepalm.jpg
+  tags: [ ]
+- name: Cat mirror fail
+  file: /gifs/cat-mirror.gif
+  frame: /gifs/frames/cat-mirror.jpg
+  tags: [ ]
+- name: Ferret fail
+  file: /gifs/ferret-fail.gif
+  frame: /gifs/frames/ferret-fail.jpg
+  tags: [ ]
+- name: Fumble
+  file: /gifs/fumble.gif
+  frame: /gifs/frames/fumble.jpg
+  tags: [ fail ]
+- name: Monday crash
+  file: /gifs/monday-crash.gif
+  frame: /gifs/frames/monday-crash.jpg
+  tags: [ fail ]
+- name: Warehouse forklift crash
+  file: /gifs/warehouse-forklift-crash.gif
+  frame: /gifs/frames/warehouse-forklift-crash.jpg
+  tags: [ fail, avalanche ]
+- name: Thumbs up
+  file: /gifs/thumbs-up.gif
+  frame: /gifs/frames/thumbs-up.jpg
+  tags: [ 'yes', approve ]
+- name: Anne Hatheway finger
+  file: /gifs/anne-hatheway-finger.gif
+  frame: /gifs/frames/anne-hatheway-finger.jpg
+  tags: [ fuck, you, contempt ]
+- name: Boba Fett finger
+  file: /gifs/boba-fett.gif
+  frame: /gifs/frames/boba-fett.jpg
+  tags: [ fuck, you, contempt ]
+- name: Ron Swanson computer
+  file: /gifs/fu-computer.gif
+  frame: /gifs/frames/fu-computer.jpg
+  tags: [ done, enough, internet ]
+- name: Zach Galifianakis finger
+  file: /gifs/zach-galifianakis.gif
+  frame: /gifs/frames/zach-galifianakis.jpg
+  tags: [ fuck, you ]
+- name: Pirates run away
+  file: /gifs/pirates-runs-away.gif
+  frame: /gifs/frames/pirates-runs-away.jpg
+  tags: [ gtfo ]
+- name: Typity type
+  file: /gifs/typity-type.gif
+  frame: /gifs/frames/typity-type.jpg
+  tags: [ hacking, computer ]
+- name: Cheesy hacking
+  file: /gifs/cheesy-hacking.gif
+  frame: /gifs/frames/cheesy-hacking.jpg
+  tags: [ computer ]
+- name: Haters gonna hate
+  file: /gifs/haters-gonna-hate-futurama.gif
+  frame: /gifs/frames/haters-gonna-hate-futurama.jpg
+  tags: [ futurama ]
+- name: Help Me Obiwan
+  file: /gifs/help-me-obiwan.gif
+  frame: /gifs/frames/help-me-obiwan.jpg
+  tags: [ star wars ]
+- name: Homer Hiding
+  file: /gifs/homer-hiding.gif
+  frame: /gifs/frames/homer-hiding.jpg
+  tags: [ disappear, leave ]
+- name: High five
+  file: /gifs/it-crowd-high-five.gif
+  frame: /gifs/frames/it-crowd-high-five.jpg
+  tags: [ ]
+- name: Hurry
+  file: /gifs/homer-hurry.gif
+  frame: /gifs/frames/homer-hurry.jpg
+  tags: [ Simpsons ]
+- name: Hurry
+  file: /gifs/judge-judy-hurry.gif
+  frame: /gifs/frames/judge-judy-hurry.jpg
+  tags: [ quick, time ]
+- name: Impressive
+  file: /gifs/impressive.gif
+  frame: /gifs/frames/impressive.jpg
+  tags: [ ]
+- name: Hold on to your butts
+  file: /gifs/hold-onto-ur-butts.gif
+  frame: /gifs/frames/hold-onto-ur-butts.jpg
+  tags: [ prepare ]
+- name: Dumb & Dumber laugh
+  file: /gifs/dumb-dumber-laugh.gif
+  frame: /gifs/frames/dumb-dumber-laugh.jpg
+  tags: [ funny ]
+- name: WTF
+  file: /gifs/wtf.gif
+  frame: /gifs/frames/wtf.jpg
+  tags: [ ]
+- name: Mind blown
+  file: /gifs/mind-blown-2.gif
+  frame: /gifs/frames/mind-blown-2.jpg
+  tags: [ ]
+- name: Nope
+  file: /gifs/dikembe-mutumbo-nope.gif
+  frame: /gifs/frames/dikembe-mutumbo-nope.jpg
+  tags: [ denied ]
+- name: 'No'
+  file: /gifs/michael-scott-no.gif
+  frame: /gifs/frames/michael-scott-no.jpg
+  tags: [ nope, noo ]
+- name: QA rejected
+  file: /gifs/QA-rejected.gif
+  frame: /gifs/frames/QA-rejected.jpg
+  tags: [ nope ]
+- name: What no
+  file: /gifs/whatno.gif
+  frame: /gifs/frames/whatno.jpg
+  tags: [ nope ]
+- name: IT Crowd popcorn
+  file: /gifs/it-crowd-popcorn.gif
+  frame: /gifs/frames/it-crowd-popcorn.jpg
+  tags: [ watching ]
+- name: Jon Stewart popcorn
+  file: /gifs/jon-stewart-popcorn.gif
+  frame: /gifs/frames/jon-stewart-popcorn.jpg
+  tags: [ watching ]
+- name: Head nod
+  file: /gifs/head-nod.gif
+  frame: /gifs/frames/head-nod.jpg
+  tags: [ proud, 'yes' ]
+- name: Ron Swanson proud
+  file: /gifs/ron-swanson-proud.gif
+  frame: /gifs/frames/ron-swanson-proud.jpg
+  tags: [ ]
+- name: Scared cat
+  file: /gifs/scared-cat.gif
+  frame: /gifs/frames/scared-cat.jpg
+  tags: [ ]
+- name: Drake shrug
+  file: /gifs/drake-shrug.gif
+  frame: /gifs/frames/drake-shrug.jpg
+  tags: [ idk ]
+- name: Eh uh huh
+  file: /gifs/eh-uh-huh.gif
+  frame: /gifs/frames/eh-uh-huh.jpg
+  tags: [ shrug ]
+- name: The Mask
+  file: /gifs/the-mask.gif
+  frame: /gifs/frames/the-mask.jpg
+  tags: [ sneak, shh ]
+- name: Yup
+  file: /gifs/yup-stepbrothers.gif
+  frame: /gifs/frames/yup-stepbrothers.jpg
+  tags: [ yep, 'yes' ]
+- name: Thank you
+  file: /gifs/thank-you-zach.gif
+  frame: /gifs/frames/thank-you-zach.jpg
+  tags: [ ]
+- name: Thank you
+  file: /gifs/thank-you-spice.gif
+  frame: /gifs/frames/thank-you-spice.jpg
+  tags: [ ]
+- name: Yes that
+  file: /gifs/ryan-the-office-yes-that.gif
+  frame: /gifs/frames/ryan-the-office-yes-that.jpg
+  tags: [ ]
+- name: Kirk thinking
+  file: /gifs/kirk-thinking.gif
+  frame: /gifs/frames/kirk-thinking.jpg
+  tags: [ star trek ]
+- name: Chuck Norris thumbs up
+  file: /gifs/chuck-norris.gif
+  frame: /gifs/frames/chuck-norris.jpg
+  tags: [ ]
+- name: Thumbs up 80s kid
+  file: /gifs/thumbs-up-80s-kid.gif
+  frame: /gifs/frames/thumbs-up-80s-kid.jpg
+  tags: [ ]
+- name: Tired
+  file: /gifs/arrested-development-tired.gif
+  frame: /gifs/frames/arrested-development-tired.jpg
+  tags: [ give up, quit ]
+- name: Touched
+  file: /gifs/kristin-bell-touched.gif
+  frame: /gifs/frames/kristin-bell-touched.jpg
+  tags: [ ]
+- name: Taylor Swift touched
+  file: /gifs/taylor-swift-touched.gif
+  frame: /gifs/frames/taylor-swift-touched.jpg
+  tags: [ ]
+- name: Blinds
+  file: /gifs/family-guy-blinds.gif
+  frame: /gifs/frames/family-guy-blinds.jpg
+  tags: [ family guy, struggle ]
+- name: Fixing tests
+  file: /gifs/fixing-ci-tests.gif
+  frame: /gifs/frames/fixing-ci-tests.jpg
+  tags: [ struggle ]
+- name: Amy Pohler rage
+  file: /gifs/amy-pohler-rage.gif
+  frame: /gifs/frames/amy-pohler-rage.jpg
+  tags: [ upset ]
+- name: Rage quit
+  file: /gifs/conan-ragequit.gif
+  frame: /gifs/frames/conan-ragequit.jpg
+  tags: [ upset ]
+- name: BSOD
+  file: /gifs/DataBSOD.gif
+  frame: /gifs/frames/DataBSOD.jpg
+  tags: [ upset, star trek ]
+- name: Jump out window
+  file: /gifs/jumps-out-window2.gif
+  frame: /gifs/frames/jumps-out-window2.jpg
+  tags: [ upset, quit ]
+- name: Outta here
+  file: /gifs/outta-here.gif
+  frame: /gifs/frames/outta-here.jpg
+  tags: [ upset, quit ]
+- name: Table flip
+  file: /gifs/tableflip.gif
+  frame: /gifs/frames/tableflip.jpg
+  tags: [ upset ]
+- name: Give it to me
+  file: /gifs/colbert-give-it-to-me.gif
+  frame: /gifs/frames/colbert-give-it-to-me.jpg
+  tags: [ want ]
+- name: Paul Rudd what
+  file: /gifs/paul-rudd-what.gif
+  frame: /gifs/frames/paul-rudd-what.jpg
+  tags: [ ]
+- name: Kind of a big deal
+  file: /gifs/kind-of-a-big-deal.gif
+  frame: /gifs/frames/kind-of-a-big-deal.jpg
+  tags: [ anchorman ]
+- name: I'm back baby
+  file: /gifs/im-back-baby.gif
+  frame: /gifs/frames/im-back-baby.jpg
+  tags: [ futurama ]
+- name: I have no idea
+  file: /gifs/i-have-no-idea.gif
+  frame: /gifs/frames/i-have-no-idea.jpg
+  tags: [ clueless, futurama ]
+- name: Let's go already
+  file: /gifs/lets-go-already.gif
+  frame: /gifs/frames/lets-go-already.jpg
+  tags: [ futurama ]
+- name: Too much coffee
+  file: /gifs/too-much-coffee.gif
+  frame: /gifs/frames/too-much-coffee.jpg
+  tags: [ caffeine, futurama ]
+- name: Not sure if
+  file: /gifs/not-sure-if.gif
+  frame: /gifs/frames/not-sure-if.jpg
+  tags: [ futurama ]
+- name: No strong feelings
+  file: /gifs/no-strong-feelings.gif
+  frame: /gifs/frames/no-strong-feelings.jpg
+  tags: [ unsure, don't, care, futurama ]
+- name: Shocked
+  file: /gifs/shocked-not-really.gif
+  frame: /gifs/frames/shocked-not-really.jpg
+  tags: [ sarcastic, futurama ]
+- name: Hooray for me
+  file: /gifs/hooray-for-me.gif
+  frame: /gifs/frames/hooray-for-me.jpg
+  tags: [ celebrate, futurama ]
+- name: Good news everyone
+  file: /gifs/good-news-everyone.gif
+  frame: /gifs/frames/good-news-everyone.jpg
+  tags: [ futurama ]
+- name: Hopes deleted
+  file: /gifs/hopes-deleted.gif
+  frame: /gifs/frames/hopes-deleted.jpg
+  tags: [ futurama ]
+- name: Technically correct
+  file: /gifs/technically-correct.gif
+  frame: /gifs/frames/technically-correct.jpg
+  tags: [ futurama ]
+- name: Bender dance
+  file: /gifs/bender-dance.gif
+  frame: /gifs/frames/bender-dance.jpg
+  tags: [ futurama ]
+- name: Nope
+  file: /gifs/american-dad-nope.gif
+  frame: /gifs/frames/american-dad-nope.jpg
+  tags: [ american dad, leave ]
+- name: So jealous
+  file: /gifs/so-jealous.gif
+  frame: /gifs/frames/so-jealous.jpg
+  tags: [ jealousy ]
+- name: Dance
+  file: /gifs/american-dad-dance.gif
+  frame: /gifs/frames/american-dad-dance.jpg
+  tags: [ american dad ]
+- name: Forced laughing
+  file: /gifs/forced-laughing.gif
+  frame: /gifs/frames/forced-laughing.jpg
+  tags: [ arrested development ]
+- name: Hello darkness
+  file: /gifs/hello-darkness.gif
+  frame: /gifs/frames/hello-darkness.jpg
+  tags: [ arrested development ]
+- name: Blue myself
+  file: /gifs/blue-myself.gif
+  frame: /gifs/frames/blue-myself.jpg
+  tags: [ arrested development ]
+- name: I've made a huge mistake
+  file: /gifs/ive-made-a-huge-mistake.gif
+  frame: /gifs/frames/ive-made-a-huge-mistake.jpg
+  tags: [ arrested development ]
+- name: I don't understand the question
+  file: /gifs/dont-understand-the-question.gif
+  frame: /gifs/frames/dont-understand-the-question.jpg
+  tags: [ arrested development ]
