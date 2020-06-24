@@ -4,7 +4,6 @@ gifs I've collected throughout the years, available anywhere I need them.
 
 ## setup
 
-* `bundle install --path=vendor/bundle --jobs=4 --retry=3`
 * `npm install`
 * `npm start`
 

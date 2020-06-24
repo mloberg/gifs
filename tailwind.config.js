@@ -6,10 +6,6 @@ module.exports = {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        "display": ["Oswald", "sans-serif"],
-        "body": ["Open\ Sans", "sans-serif"],
-      },
       zIndex: {
         "-1": "-1",
       },
@@ -19,4 +15,4 @@ module.exports = {
   plugins: [
     require("@tailwindcss/custom-forms"),
   ],
-}
+};
