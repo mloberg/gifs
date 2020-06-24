@@ -30,7 +30,7 @@
     <h1 class="text-center text-lg mb-12">matt's gifs</h1>
 
     <label class="block mb-12">
-      <input class="form-input mt-1 block w-1/2 mx-auto text-black" placeholder="Search for a gif" x-model="query" @keyup.debounce="search" autofocus>
+      <input class="form-input mt-1 block w-1/2 mx-auto text-black" placeholder="Search for a gif" aria-label="Search for a gif" x-model="query" @keyup.debounce="search" autofocus>
     </label>
 
     <div class="grid lg:grid-cols-3 md:grid-cols-2 gap-4 mx-auto">
@@ -41,7 +41,7 @@
               <div class="overlay-backdrop"></div>
               <div class="overlay-actions text-black">
                 <p class="py-2 px-4 bg-white rounded hover:bg-gray-300">Copy</p>
-                <input :value="r.file" class="form-input block mt-2 z-50" disabled>
+                <input :value="r.file" class="form-input block mt-2 z-50" aria-label="read-only gif link" disabled>
               </div>
             </div>
             <img class="object-center" :src="r.frame" :alt="r.name" :data-src="r.file" @load="loadGif">
