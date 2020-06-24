@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="{% link assets/css/app.css %}">
 </head>
 <body class="text-white bg-gray-900 body-font font-sans tracking-wider leading-normal" x-data="gifs()" x-init="init()">
-  <div class="toast">
+  <div class="toast" x-cloak>
     <p class="toast-message mt-4 py-2 px-4 bg-white text-black rounded-sm"
       x-show="toast"
       x-transition:enter="transition ease-out duration-300"
