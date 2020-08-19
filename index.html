@@ -37,7 +37,7 @@
       <template x-for="r in results" :key="r.file">
         <div class="mx-auto text-center">
           <div class="relative">
-            <div @click="copy" class="overlay">
+            <div @click="copy(r.file, $event)" class="overlay">
               <div class="overlay-backdrop"></div>
               <div class="overlay-actions text-black">
                 <p class="py-2 px-4 bg-white rounded hover:bg-gray-300">Copy</p>
