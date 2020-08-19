@@ -11,6 +11,7 @@ module.exports = {
         'eslint:recommended',
         'prettier/@typescript-eslint',
         'plugin:prettier/recommended',
+        'plugin:compat/recommended',
     ],
     rules: {
         'simple-import-sort/sort': 'error',
