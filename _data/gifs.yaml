@@ -1082,3 +1082,11 @@
   file: /gifs/show-me-what-you-got.gif
   frame: /gifs/frames/show-me-what-you-got.jpg
   tags: [ rick, morty ]
+- name: Thumbs Up
+  file: /gifs/thumbs-up-kiss.gif
+  frame: /gifs/frames/thumbs-up-kiss.jpg
+  tags: [ 'yes', approve, awesome ]
+- name: Thumbs Up
+  file: /gifs/thumbs-up-charlie-day.gif
+  frame: /gifs/frames/thumbs-up-charlie-day.jpg
+  tags: [ 'yes', approve, charlie, day ]
