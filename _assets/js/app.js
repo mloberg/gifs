@@ -45,6 +45,7 @@ window.gifs = () => {
             const img = new Image();
             img.onload = function () {
                 target.src = this.src;
+                target.parentNode.querySelector('.loading').remove();
             };
             img.src = src;
         },

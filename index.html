@@ -37,6 +37,10 @@
       <template x-for="r in results" :key="r.file">
         <div class="mx-auto text-center">
           <div class="relative">
+            <div class="loading absolute w-full h-full flex items-stretch cursor-pointer">
+              <div class="absolute w-full h-full bg-gray-900 opacity-50 z-10"></div>
+              <div class="lds-dual-ring self-center mx-auto text-black z-30"></div>
+            </div>
             <div @click="copy(r.file, $event)" class="overlay">
               <div class="overlay-backdrop"></div>
               <div class="overlay-actions text-black">
