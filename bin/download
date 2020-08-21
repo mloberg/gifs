@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -e
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )/.." && pwd )"
+
+
+url="$1"
+file="${2:-$(basename "$url")}"
+[ -n "$url" ] || abort "usage: $0 url [file-name]"
+
+wget -O "$file" "$url"
+"$DIR/bin/add" "$file"
