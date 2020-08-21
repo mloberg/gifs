@@ -5,24 +5,24 @@
         "dev": "encore dev",
         "prod": "encore prod",
         "watch:webpack": "encore dev --watch",
-        "watch:jekyll": "bundle exec jekyll serve --watch",
+        "watch:jekyll": "bundle exec jekyll serve --watch --open",
         "postinstall": "bundle install --path=vendor/bundle --jobs=4 --retry=3",
         "lint": "eslint _assets --ext .js",
         "fix": "npm run lint -- --fix"
     },
     "dependencies": {
-        "@babel/plugin-transform-runtime": "^7.10.1",
+        "@babel/plugin-transform-runtime": "^7.11.0",
         "@symfony/webpack-encore": "^0.30.2",
         "@tailwindcss/custom-forms": "^0.2.1",
-        "alpinejs": "^2.3.5",
-        "autoprefixer": "^9.8.0",
-        "lodash": "^4.17.19",
-        "lunr": "^2.3.8",
+        "alpinejs": "^2.6.0",
+        "autoprefixer": "^9.8.6",
+        "lodash": "^4.17.20",
+        "lunr": "^2.3.9",
         "postcss-loader": "^3.0.0",
-        "tailwindcss": "^1.4.6"
+        "tailwindcss": "^1.7.3"
     },
     "devDependencies": {
-        "concurrently": "^5.2.0",
+        "concurrently": "^5.3.0",
         "eslint": "^7.7.0",
         "eslint-config-prettier": "^6.11.0",
         "eslint-plugin-compat": "^3.8.0",
