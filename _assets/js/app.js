@@ -48,7 +48,11 @@ window.gifs = () => {
             };
             img.src = src;
         },
-        search() {
+        search(event) {
+            if (event.key && event.key === 'Meta') {
+                return;
+            }
+
             if (this.query.length < 3) {
                 this.results = [];
                 return;
