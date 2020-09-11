@@ -11,7 +11,7 @@
         "fix": "npm run lint -- --fix"
     },
     "dependencies": {
-        "@babel/plugin-transform-runtime": "^7.11.0",
+        "@babel/plugin-transform-runtime": "^7.11.5",
         "@symfony/webpack-encore": "^0.30.2",
         "@tailwindcss/custom-forms": "^0.2.1",
         "alpinejs": "^2.6.0",
