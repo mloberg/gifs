@@ -14,7 +14,7 @@
         "@babel/plugin-transform-runtime": "^7.11.5",
         "@symfony/webpack-encore": "^0.30.2",
         "@tailwindcss/custom-forms": "^0.2.1",
-        "alpinejs": "^2.6.0",
+        "alpinejs": "^2.8.2",
         "autoprefixer": "^9.8.6",
         "lodash": "^4.17.20",
         "lunr": "^2.3.9",
