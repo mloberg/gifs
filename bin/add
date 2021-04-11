@@ -8,7 +8,7 @@ abort() {
   exit 1
 }
 
-[ -d gifs ] || abort "missing local copy of gifs (make download-gifs)"
+[ -d gifs ] || abort "missing local copy of gifs (make download)"
 
 file="$1"
 [ -n "$file" ] || abort "usage: $0 file"
@@ -49,7 +49,7 @@ gif "${name}" added
 
 To finish adding gif:
 1. Edit name and tags in gifs.json
-2. Upload gif with "make upload-gifs"
+2. Upload gif with "make upload"
 3. Add to search with "make index"
 EOF
 

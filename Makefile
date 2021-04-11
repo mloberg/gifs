@@ -27,7 +27,7 @@ build: ## Build site
 
 deploy: build ## Upload site to S3
 	@echo "+ $@"
-	@aws s3 sync --delete --exclude gifs _site s3://gifs.mlo.io
+	@aws s3 sync --exclude gifs _site s3://gifs.mlo.io
 .PHONY: deploy
 
 ##
@@ -37,12 +37,12 @@ deploy: build ## Upload site to S3
 download: ## Download gifs from S3
 	@echo "+ $@"
 	@aws s3 sync s3://gifs.mlo.io/gifs gifs
-.PHONY: download-gifs
+.PHONY: download
 
 upload: ## Upload gifs to S3
 	@echo "+ $@"
 	@aws s3 sync --cache-control max-age=31536000 gifs s3://gifs.mlo.io/gifs
-.PHONY: upload-gifs
+.PHONY: upload
 
 index: ## Update index from gifs.json
 	@echo "+ $@"
