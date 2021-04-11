@@ -12,7 +12,6 @@ jobs:
       JEKYLL_ENV: production
       NODE_ENV: production
       MEILI_HOST: https://search.mlo.io
-      MEILI_PUBLIC_KEY: ${{ secrets.MEILI_PUBLIC_KEY }}
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2.1.4
@@ -40,6 +39,8 @@ jobs:
           aws-region: us-west-2
       - run: npm install
       - run: make index
-        with:
+        env:
           MEILI_PRIVATE_KEY: ${{ secrets.MEILI_PRIVATE_KEY }}
       - run: make deploy
+        env:
+          MEILI_PUBLIC_KEY: ${{ secrets.MEILI_PUBLIC_KEY }}
