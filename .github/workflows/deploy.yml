@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       JEKYLL_ENV: production
-      NODE_ENV: production
       MEILI_HOST: https://search.mlo.io
     steps:
       - uses: actions/checkout@v2
@@ -32,15 +31,15 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
+      - run: npm install
+      - run: make index
+        env:
+          MEILI_PRIVATE_KEY: ${{ secrets.MEILI_PRIVATE_KEY }}
       - uses: aws-actions/configure-aws-credentials@v1
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-west-2
-      - run: npm install
-      - run: make index
-        env:
-          MEILI_PRIVATE_KEY: ${{ secrets.MEILI_PRIVATE_KEY }}
       - run: make deploy
         env:
           MEILI_PUBLIC_KEY: ${{ secrets.MEILI_PUBLIC_KEY }}
