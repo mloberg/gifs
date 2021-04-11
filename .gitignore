@@ -3,5 +3,7 @@
 /node_modules
 /vendor
 /assets
+/gifs
 
 .jekyll-cache
+.eslintcache

@@ -1,21 +1,19 @@
 module.exports = {
-  future: {
-    removeDeprecatedGapUtilities: true,
-  },
   purge: [
-    "./**/*.html",
-    "./**/*.md",
-    "./_assets/**/*.js",
+    './**/*.html',
+    './**/*.md',
+    './_assets/**/*.js',
   ],
+  darkMode: 'media', // or 'class' or false
   theme: {
     extend: {
       zIndex: {
-        "-1": "-1",
+        '-1': '-1',
       },
     },
   },
-  variants: {},
-  plugins: [
-    require("@tailwindcss/custom-forms"),
-  ],
+  variants: {
+    extend: {},
+  },
+  plugins: [],
 };

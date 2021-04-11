@@ -8,12 +8,15 @@ abort() {
   exit 1
 }
 
+[ -d gifs ] || abort "missing local copy of gifs (make download-gifs)"
+
 file="$1"
 [ -n "$file" ] || abort "usage: $0 file"
 [ -f "$file" ] || abort "no file found: $file"
 name="$(basename "$file")"
 name="${name%.*}"
 
+command -v jq >/dev/null || abort "missing jq (brew install jq)"
 command -v gifsicle >/dev/null || abort "missing gifsicle (brew install gifsicle)"
 command -v jpegoptim >/dev/null || abort "missing jpegoptim (brew install jpegoptim)"
 command -v magick >/dev/null || abort "missing imagemagick (brew install imagemagick)"
@@ -29,12 +32,25 @@ magick convert "${frame}.gif" "${frame}.jpg"
 jpegoptim -m60 --strip-all --all-progressive "${frame}.jpg"
 rm "${frame}.gif"
 
-cat <<EOT >> "$DIR/_data/gifs.yaml"
-- name: ${name}
-  file: /gifs/${name}.gif
-  frame: /gifs/frames/${name}.jpg
-  tags: [ ]
-EOT
+last=$(jq -r '.[-1].id' gifs.json)
+id=$((last + 1))
 
-echo "Modify gif information in _data/gifs.yaml"
+jq "[.[]] + [{
+  id: \"${id}\",
+  name: \"${2:-$name}\",
+  file: \"/gifs/${name}.gif\",
+  frame: \"/gifs/frames/${name}.jpg\",
+  tags: []
+}]" gifs.json > _gifs.json
+mv _gifs.json gifs.json
+
+cat <<EOF
+gif "${name}" added
+
+To finish adding gif:
+1. Edit name and tags in gifs.json
+2. Upload gif with "make upload-gifs"
+3. Add to search with "make index"
+EOF
+
 rm "$file"

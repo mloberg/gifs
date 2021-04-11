@@ -4,8 +4,7 @@ gifs I've collected throughout the years, available anywhere I need them.
 
 ## setup
 
-* `npm install`
-* `npm start`
+* `make setup`
 
 ## adding gifs
 

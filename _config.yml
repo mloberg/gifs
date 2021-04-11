@@ -1,5 +1,18 @@
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [development]
+  blanklines: false
+  startings: [html, head, body]
+
 exclude:
-  - "package*.json"
-  - "*.config.js"
+  - assets/entrypoints.json
+  - assets/manifest.json
   - bin
+  - Makefile
   - README.md
+  - '*.config.js'
+  - gifs.json
+  - 'package*.json'
