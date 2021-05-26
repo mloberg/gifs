@@ -14,7 +14,7 @@
         "@meilisearch/instant-meilisearch": "^0.4.1",
         "alpinejs": "^2.8.2",
         "copy-to-clipboard": "^3.3.1",
-        "instantsearch.js": "^4.20.0"
+        "instantsearch.js": "^4.23.0"
     },
     "devDependencies": {
         "@babel/plugin-transform-runtime": "^7.13.15",
