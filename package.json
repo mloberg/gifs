@@ -12,7 +12,7 @@
     },
     "dependencies": {
         "@meilisearch/instant-meilisearch": "^0.5.0",
-        "alpinejs": "^2.8.2",
+        "alpinejs": "^3.2.2",
         "copy-to-clipboard": "^3.3.1",
         "instantsearch.js": "^4.25.2"
     },

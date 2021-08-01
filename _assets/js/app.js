@@ -1,5 +1,4 @@
-import 'alpinejs';
-
+import Alpine from 'alpinejs'
 import { instantMeiliSearch } from '@meilisearch/instant-meilisearch';
 import copy from 'copy-to-clipboard';
 import instantsearch from 'instantsearch.js';
@@ -100,3 +99,7 @@ window.loadGif = (gif, event) => {
   };
   img.src = gif;
 };
+
+window.Alpine = Alpine;
+
+Alpine.start();
