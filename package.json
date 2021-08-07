@@ -17,7 +17,7 @@
         "instantsearch.js": "^4.25.3"
     },
     "devDependencies": {
-        "@babel/plugin-transform-runtime": "^7.14.5",
+        "@babel/plugin-transform-runtime": "^7.15.0",
         "@symfony/webpack-encore": "^1.5.0",
         "autoprefixer": "^10.3.1",
         "concurrently": "^6.2.0",
