@@ -11,7 +11,7 @@
         "fix": "npm run lint -- --fix"
     },
     "dependencies": {
-        "@meilisearch/instant-meilisearch": "^0.5.4",
+        "@meilisearch/instant-meilisearch": "^0.5.5",
         "alpinejs": "^3.4.1",
         "copy-to-clipboard": "^3.3.1",
         "instantsearch.js": "^4.30.2"
