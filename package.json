@@ -23,7 +23,7 @@
         "concurrently": "^6.3.0",
         "eslint": "^7.32.0",
         "eslint-config-airbnb-base": "^14.2.1",
-        "eslint-plugin-import": "^2.25.2",
+        "eslint-plugin-import": "^2.25.3",
         "postcss": "^8.3.11",
         "postcss-loader": "^6.2.0",
         "tailwindcss": "^2.2.19"
