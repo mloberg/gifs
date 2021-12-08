@@ -11,6 +11,9 @@ jobs:
     env:
       JEKYLL_ENV: production
       MEILI_HOST: https://search.mlo.io
+    permissions:
+      id-token: write
+      contents: read
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
@@ -27,9 +30,8 @@ jobs:
           MEILI_PRIVATE_KEY: ${{ secrets.MEILI_PRIVATE_KEY }}
       - uses: aws-actions/configure-aws-credentials@v1
         with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-west-2
+          role-to-assume: arn:aws:iam::603767838523:role/gifs
       - run: make deploy
         env:
           MEILI_PUBLIC_KEY: ${{ secrets.MEILI_PUBLIC_KEY }}
