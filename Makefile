@@ -46,5 +46,5 @@ upload: ## Upload gifs to S3
 
 index: ## Update index from gifs.json
 	@echo "+ $@"
-	@curl -X POST '$(MEILI_HOST)/indexes/gifs/documents' -H 'X-Meili-API-Key: $(MEILI_PRIVATE_KEY)' --data @gifs.json
+	@curl -X POST '$(MEILI_HOST)/indexes/gifs/documents' -H 'Content-Type: application/json' -H 'X-Meili-API-Key: $(MEILI_PRIVATE_KEY)' --data @gifs.json
 .PHONY: index
