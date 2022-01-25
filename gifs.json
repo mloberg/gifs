@@ -4,140 +4,91 @@
         "name": "100% Awesome",
         "file": "/gifs/100-percent-awesome.gif",
         "frame": "/gifs/frames/100-percent-awesome.jpg",
-        "tags": [
-            "confident"
-        ]
+        "tags": ["confident"]
     },
     {
         "id": "2",
         "name": "Angry Face",
         "file": "/gifs/angry-face.gif",
         "frame": "/gifs/frames/angry-face.jpg",
-        "tags": [
-            "angry"
-        ]
+        "tags": ["angry"]
     },
     {
         "id": "3",
         "name": "Collapse",
         "file": "/gifs/bb-collapse.gif",
         "frame": "/gifs/frames/bb-collapse.jpg",
-        "tags": [
-            "sad",
-            "cry"
-        ]
+        "tags": ["sad", "cry"]
     },
     {
         "id": "4",
         "name": "Gale Dancing",
         "file": "/gifs/bb-dance.gif",
         "frame": "/gifs/frames/bb-dance.jpg",
-        "tags": [
-            "dancing",
-            "happy"
-        ]
+        "tags": ["dancing", "happy"]
     },
     {
         "id": "5",
         "name": "Walter White Explosion",
         "file": "/gifs/bb-explosion.gif",
         "frame": "/gifs/frames/bb-explosion.jpg",
-        "tags": [
-            "badass"
-        ]
+        "tags": ["badass"]
     },
     {
         "id": "6",
         "name": "Breaking Bad High Five",
         "file": "/gifs/bb-high-five.gif",
         "frame": "/gifs/frames/bb-high-five.jpg",
-        "tags": [
-            "awesome",
-            "high five"
-        ]
+        "tags": ["awesome", "high five"]
     },
     {
         "id": "7",
         "name": "Breaking Bad RV",
         "file": "/gifs/bb-rv.gif",
         "frame": "/gifs/frames/bb-rv.jpg",
-        "tags": [
-            "calm",
-            "serene",
-            "peaceful",
-            "tranquil",
-            "relaxing"
-        ]
+        "tags": ["calm", "serene", "peaceful", "tranquil", "relaxing"]
     },
     {
         "id": "8",
         "name": "Beer Me",
         "file": "/gifs/beer-me.gif",
         "frame": "/gifs/frames/beer-me.jpg",
-        "tags": [
-            "awesome",
-            "fuck yeah",
-            "impressive",
-            "best",
-            "badass"
-        ]
+        "tags": ["awesome", "fuck yeah", "impressive", "best", "badass"]
     },
     {
         "id": "9",
         "name": "Car Jump",
         "file": "/gifs/best-car-jump.gif",
         "frame": "/gifs/frames/best-car-jump.jpg",
-        "tags": [
-            "awesome",
-            "best",
-            "impressive"
-        ]
+        "tags": ["awesome", "best", "impressive"]
     },
     {
         "id": "10",
         "name": "B&W Clapping",
         "file": "/gifs/best-clap.gif",
         "frame": "/gifs/frames/best-clap.jpg",
-        "tags": [
-            "clap",
-            "praise"
-        ]
+        "tags": ["clap", "praise"]
     },
     {
         "id": "11",
         "name": "Kid Dancing",
         "file": "/gifs/best-kid-dancing.gif",
         "frame": "/gifs/frames/best-kid-dancing.jpg",
-        "tags": [
-            "dance",
-            "dancing",
-            "moves",
-            "awesome",
-            "best"
-        ]
+        "tags": ["dance", "dancing", "moves", "awesome", "best"]
     },
     {
         "id": "12",
         "name": "Star Trek Nod",
         "file": "/gifs/best-star-trek.gif",
         "frame": "/gifs/frames/best-star-trek.jpg",
-        "tags": [
-            "awesome",
-            "best",
-            "thanks"
-        ]
+        "tags": ["awesome", "best", "thanks"]
     },
     {
         "id": "13",
         "name": "Blank Stare",
         "file": "/gifs/blank-stare.gif",
         "frame": "/gifs/frames/blank-stare.jpg",
-        "tags": [
-            "bored",
-            "breaking",
-            "bad",
-            "expressionless"
-        ]
+        "tags": ["bored", "breaking", "bad", "expressionless"]
     },
     {
         "id": "14",
@@ -158,20 +109,14 @@
         "name": "Bring It On",
         "file": "/gifs/bring-it-on-psycho-cat.gif",
         "frame": "/gifs/frames/bring-it-on-psycho-cat.jpg",
-        "tags": [
-            "crazy",
-            "challenge",
-            "cat"
-        ]
+        "tags": ["crazy", "challenge", "cat"]
     },
     {
         "id": "17",
         "name": "Brush Off",
         "file": "/gifs/brush-off.gif",
         "frame": "/gifs/frames/brush-off.jpg",
-        "tags": [
-            "not impressed"
-        ]
+        "tags": ["not impressed"]
     },
     {
         "id": "18",
@@ -185,39 +130,28 @@
         "name": "Burn It",
         "file": "/gifs/burn-it.gif",
         "frame": "/gifs/frames/burn-it.jpg",
-        "tags": [
-            "fire"
-        ]
+        "tags": ["fire"]
     },
     {
         "id": "20",
         "name": "Burn",
         "file": "/gifs/burn.gif",
         "frame": "/gifs/frames/burn.jpg",
-        "tags": [
-            "fire"
-        ]
+        "tags": ["fire"]
     },
     {
         "id": "21",
         "name": "He Can't Keep Getting Away With It",
         "file": "/gifs/cant-keep-getting-away.gif",
         "frame": "/gifs/frames/cant-keep-getting-away.jpg",
-        "tags": [
-            "cry",
-            "frustrated"
-        ]
+        "tags": ["cry", "frustrated"]
     },
     {
         "id": "22",
         "name": "Cartman Sherif",
         "file": "/gifs/cartman-sherif.gif",
         "frame": "/gifs/frames/cartman-sherif.jpg",
-        "tags": [
-            "stare",
-            "distrust",
-            "not sure if"
-        ]
+        "tags": ["stare", "distrust", "not sure if"]
     },
     {
         "id": "23",
@@ -231,10 +165,7 @@
         "name": "Cat Attack",
         "file": "/gifs/cat-attack-2.gif",
         "frame": "/gifs/frames/cat-attack-2.jpg",
-        "tags": [
-            "dog",
-            "challenge"
-        ]
+        "tags": ["dog", "challenge"]
     },
     {
         "id": "25",
@@ -248,9 +179,7 @@
         "name": "Cat Eating Bannana",
         "file": "/gifs/cat-bannana.gif",
         "frame": "/gifs/frames/cat-bannana.jpg",
-        "tags": [
-            "weird"
-        ]
+        "tags": ["weird"]
     },
     {
         "id": "27",
@@ -278,19 +207,14 @@
         "name": "Cat Jump",
         "file": "/gifs/cat-jump.gif",
         "frame": "/gifs/frames/cat-jump.jpg",
-        "tags": [
-            "crazy"
-        ]
+        "tags": ["crazy"]
     },
     {
         "id": "31",
         "name": "Crazy Cats",
         "file": "/gifs/cats.gif",
         "frame": "/gifs/frames/cats.jpg",
-        "tags": [
-            "crazy",
-            "weird"
-        ]
+        "tags": ["crazy", "weird"]
     },
     {
         "id": "32",
@@ -311,28 +235,21 @@
         "name": "Conversation Over",
         "file": "/gifs/conversation-over-batman.gif",
         "frame": "/gifs/frames/conversation-over-batman.jpg",
-        "tags": [
-            "done"
-        ]
+        "tags": ["done"]
     },
     {
         "id": "35",
         "name": "Conversation Over",
         "file": "/gifs/conversation-over.gif",
         "frame": "/gifs/frames/conversation-over.jpg",
-        "tags": [
-            "eye roll"
-        ]
+        "tags": ["eye roll"]
     },
     {
         "id": "36",
         "name": "Head Bob",
         "file": "/gifs/crazy-head-bob.gif",
         "frame": "/gifs/frames/crazy-head-bob.jpg",
-        "tags": [
-            "crazy",
-            "yes"
-        ]
+        "tags": ["crazy", "yes"]
     },
     {
         "id": "37",
@@ -346,57 +263,42 @@
         "name": "Cry",
         "file": "/gifs/cry-2.gif",
         "frame": "/gifs/frames/cry-2.jpg",
-        "tags": [
-            "sad"
-        ]
+        "tags": ["sad"]
     },
     {
         "id": "39",
         "name": "Cry",
         "file": "/gifs/cry.gif",
         "frame": "/gifs/frames/cry.jpg",
-        "tags": [
-            "sad"
-        ]
+        "tags": ["sad"]
     },
     {
         "id": "40",
         "name": "CSS",
         "file": "/gifs/css.gif",
         "frame": "/gifs/frames/css.jpg",
-        "tags": [
-            "computer",
-            "development",
-            "frustrated"
-        ]
+        "tags": ["computer", "development", "frustrated"]
     },
     {
         "id": "41",
         "name": "Didn't Read",
         "file": "/gifs/didnt-read.gif",
         "frame": "/gifs/frames/didnt-read.jpg",
-        "tags": [
-            "tldr"
-        ]
+        "tags": ["tldr"]
     },
     {
         "id": "42",
         "name": "Disapointed",
         "file": "/gifs/disapointed.gif",
         "frame": "/gifs/frames/disapointed.jpg",
-        "tags": [
-            "disaprove",
-            "nope"
-        ]
+        "tags": ["disaprove", "nope"]
     },
     {
         "id": "43",
         "name": "Do I Give a Fuck",
         "file": "/gifs/do-i-give-a-fuck.gif",
         "frame": "/gifs/frames/do-i-give-a-fuck.jpg",
-        "tags": [
-            "swear"
-        ]
+        "tags": ["swear"]
     },
     {
         "id": "44",
@@ -410,30 +312,21 @@
         "name": "Dollar",
         "file": "/gifs/dollar.gif",
         "frame": "/gifs/frames/dollar.jpg",
-        "tags": [
-            "money",
-            "bribe"
-        ]
+        "tags": ["money", "bribe"]
     },
     {
         "id": "46",
         "name": "Don't Give a Fuck",
         "file": "/gifs/dont-give-a-fuck.gif",
         "frame": "/gifs/frames/dont-give-a-fuck.jpg",
-        "tags": [
-            "swear"
-        ]
+        "tags": ["swear"]
     },
     {
         "id": "47",
         "name": "Don't Touch",
         "file": "/gifs/dont-touch.gif",
         "frame": "/gifs/frames/dont-touch.jpg",
-        "tags": [
-            "breaking the rules",
-            "gnf",
-            "idgaf"
-        ]
+        "tags": ["breaking the rules", "gnf", "idgaf"]
     },
     {
         "id": "48",
@@ -454,18 +347,14 @@
         "name": "Drop Kick",
         "file": "/gifs/drop-kick.gif",
         "frame": "/gifs/frames/drop-kick.jpg",
-        "tags": [
-            "unexpected"
-        ]
+        "tags": ["unexpected"]
     },
     {
         "id": "51",
         "name": "Not Impressed",
         "file": "/gifs/dwight-not-impressed.gif",
         "frame": "/gifs/frames/dwight-not-impressed.jpg",
-        "tags": [
-            "contempt"
-        ]
+        "tags": ["contempt"]
     },
     {
         "id": "52",
@@ -507,18 +396,14 @@
         "name": "I Don't Know What I Expected",
         "file": "/gifs/expected.gif",
         "frame": "/gifs/frames/expected.jpg",
-        "tags": [
-            "disbelief"
-        ]
+        "tags": ["disbelief"]
     },
     {
         "id": "58",
         "name": "Car Explosion",
         "file": "/gifs/explosion.gif",
         "frame": "/gifs/frames/explosion.jpg",
-        "tags": [
-            "badass"
-        ]
+        "tags": ["badass"]
     },
     {
         "id": "59",
@@ -532,18 +417,14 @@
         "name": "Eye Roll",
         "file": "/gifs/eye-roll.gif",
         "frame": "/gifs/frames/eye-roll.jpg",
-        "tags": [
-            "disbelief"
-        ]
+        "tags": ["disbelief"]
     },
     {
         "id": "61",
         "name": "Facepalm",
         "file": "/gifs/facepalm.gif",
         "frame": "/gifs/frames/facepalm.jpg",
-        "tags": [
-            "face palm"
-        ]
+        "tags": ["face palm"]
     },
     {
         "id": "62",
@@ -571,125 +452,91 @@
         "name": "Flourish",
         "file": "/gifs/flourish.gif",
         "frame": "/gifs/frames/flourish.jpg",
-        "tags": [
-            "awesome",
-            "impressive",
-            "hype"
-        ]
+        "tags": ["awesome", "impressive", "hype"]
     },
     {
         "id": "66",
         "name": "Fox Lick",
         "file": "/gifs/fox-lick.gif",
         "frame": "/gifs/frames/fox-lick.jpg",
-        "tags": [
-            "fail",
-            "weird"
-        ]
+        "tags": ["fail", "weird"]
     },
     {
         "id": "67",
         "name": "Fuck You",
         "file": "/gifs/fuck-1.gif",
         "frame": "/gifs/frames/fuck-1.jpg",
-        "tags": [
-            "contempt"
-        ]
+        "tags": ["contempt"]
     },
     {
         "id": "68",
         "name": "Fuck You",
         "file": "/gifs/fuck-2.gif",
         "frame": "/gifs/frames/fuck-2.jpg",
-        "tags": [
-            "contempt"
-        ]
+        "tags": ["contempt"]
     },
     {
         "id": "69",
         "name": "Fuck You",
         "file": "/gifs/fuck-3.gif",
         "frame": "/gifs/frames/fuck-3.jpg",
-        "tags": [
-            "contempt"
-        ]
+        "tags": ["contempt"]
     },
     {
         "id": "70",
         "name": "Fuck You",
         "file": "/gifs/fuck-4.gif",
         "frame": "/gifs/frames/fuck-4.jpg",
-        "tags": [
-            "contempt"
-        ]
+        "tags": ["contempt"]
     },
     {
         "id": "71",
         "name": "Fuck You",
         "file": "/gifs/fuck-you-2.gif",
         "frame": "/gifs/frames/fuck-you-2.jpg",
-        "tags": [
-            "contempt"
-        ]
+        "tags": ["contempt"]
     },
     {
         "id": "72",
         "name": "Fuck You",
         "file": "/gifs/fuck-you-cat.gif",
         "frame": "/gifs/frames/fuck-you-cat.jpg",
-        "tags": [
-            "contempt",
-            "cat"
-        ]
+        "tags": ["contempt", "cat"]
     },
     {
         "id": "73",
         "name": "Register This",
         "file": "/gifs/fuck-you-finger.gif",
         "frame": "/gifs/frames/fuck-you-finger.jpg",
-        "tags": [
-            "contempt"
-        ]
+        "tags": ["contempt"]
     },
     {
         "id": "74",
         "name": "Fuck You",
         "file": "/gifs/fuck-you.gif",
         "frame": "/gifs/frames/fuck-you.jpg",
-        "tags": [
-            "contempt",
-            "angry"
-        ]
+        "tags": ["contempt", "angry"]
     },
     {
         "id": "75",
         "name": "Fuck your Eyebrows",
         "file": "/gifs/fuck-your-eyebrows.gif",
         "frame": "/gifs/frames/fuck-your-eyebrows.jpg",
-        "tags": [
-            "contempt",
-            "angry"
-        ]
+        "tags": ["contempt", "angry"]
     },
     {
         "id": "76",
         "name": "Fucking People",
         "file": "/gifs/fucking-people.gif",
         "frame": "/gifs/frames/fucking-people.jpg",
-        "tags": [
-            "work",
-            "contempt"
-        ]
+        "tags": ["work", "contempt"]
     },
     {
         "id": "77",
         "name": "Git Merge",
         "file": "/gifs/git-merge.gif",
         "frame": "/gifs/frames/git-merge.jpg",
-        "tags": [
-            "dev",
-            "developer"
-        ]
+        "tags": ["dev", "developer"]
     },
     {
         "id": "78",
@@ -717,20 +564,14 @@
         "name": "Self Five",
         "file": "/gifs/high-five-30rock.gif",
         "frame": "/gifs/frames/high-five-30rock.jpg",
-        "tags": [
-            "awesome",
-            "high five"
-        ]
+        "tags": ["awesome", "high five"]
     },
     {
         "id": "82",
         "name": "High Fives",
         "file": "/gifs/high-fives.gif",
         "frame": "/gifs/frames/high-fives.jpg",
-        "tags": [
-            "awesome",
-            "hype"
-        ]
+        "tags": ["awesome", "hype"]
     },
     {
         "id": "83",
@@ -744,9 +585,7 @@
         "name": "I Won",
         "file": "/gifs/i-won.gif",
         "frame": "/gifs/frames/i-won.jpg",
-        "tags": [
-            "winning"
-        ]
+        "tags": ["winning"]
     },
     {
         "id": "85",
@@ -767,28 +606,21 @@
         "name": "I'm Out",
         "file": "/gifs/im-out.gif",
         "frame": "/gifs/frames/im-out.jpg",
-        "tags": [
-            "cat"
-        ]
+        "tags": ["cat"]
     },
     {
         "id": "88",
         "name": "Sarcastic Clap",
         "file": "/gifs/joker-clap.gif",
         "frame": "/gifs/frames/joker-clap.jpg",
-        "tags": [
-            "clapping"
-        ]
+        "tags": ["clapping"]
     },
     {
         "id": "89",
         "name": "Just Do It",
         "file": "/gifs/justdoit.gif",
         "frame": "/gifs/frames/justdoit.jpg",
-        "tags": [
-            "doit",
-            "hype"
-        ]
+        "tags": ["doit", "hype"]
     },
     {
         "id": "90",
@@ -802,30 +634,21 @@
         "name": "Goat",
         "file": "/gifs/kidding-goat.gif",
         "frame": "/gifs/frames/kidding-goat.jpg",
-        "tags": [
-            "kidding",
-            "weird",
-            "idwiw"
-        ]
+        "tags": ["kidding", "weird", "idwiw"]
     },
     {
         "id": "92",
         "name": "Panda Fail",
         "file": "/gifs/kidding-panda-fall.gif",
         "frame": "/gifs/frames/kidding-panda-fall.jpg",
-        "tags": [
-            "weird",
-            "kidding"
-        ]
+        "tags": ["weird", "kidding"]
     },
     {
         "id": "93",
         "name": "Knowledge",
         "file": "/gifs/knowledge.gif",
         "frame": "/gifs/frames/knowledge.jpg",
-        "tags": [
-            "til"
-        ]
+        "tags": ["til"]
     },
     {
         "id": "94",
@@ -846,19 +669,14 @@
         "name": "Never Trust Anybody",
         "file": "/gifs/never-trust-anybody.gif",
         "frame": "/gifs/frames/never-trust-anybody.jpg",
-        "tags": [
-            "fail"
-        ]
+        "tags": ["fail"]
     },
     {
         "id": "97",
         "name": "Nice Try Asshole",
         "file": "/gifs/nice-try-asshole.gif",
         "frame": "/gifs/frames/nice-try-asshole.jpg",
-        "tags": [
-            "contempt",
-            "asshole"
-        ]
+        "tags": ["contempt", "asshole"]
     },
     {
         "id": "98",
@@ -872,9 +690,7 @@
         "name": "Not what you think it means",
         "file": "/gifs/not-what-you-think-it-means.gif",
         "frame": "/gifs/frames/not-what-you-think-it-means.jpg",
-        "tags": [
-            "confused"
-        ]
+        "tags": ["confused"]
     },
     {
         "id": "100",
@@ -888,40 +704,28 @@
         "name": "Oh Hell No",
         "file": "/gifs/oh-hell-no.gif",
         "frame": "/gifs/frames/oh-hell-no.jpg",
-        "tags": [
-            "swear",
-            "nope"
-        ]
+        "tags": ["swear", "nope"]
     },
     {
         "id": "102",
         "name": "Oh Shit",
         "file": "/gifs/oh-shi.gif",
         "frame": "/gifs/frames/oh-shi.jpg",
-        "tags": [
-            "I'm out",
-            "nope",
-            "leave"
-        ]
+        "tags": ["I'm out", "nope", "leave"]
     },
     {
         "id": "103",
         "name": "Roof Pizza",
         "file": "/gifs/pizza-roof.gif",
         "frame": "/gifs/frames/pizza-roof.jpg",
-        "tags": [
-            "angry"
-        ]
+        "tags": ["angry"]
     },
     {
         "id": "104",
         "name": "Pogo",
         "file": "/gifs/pogo.gif",
         "frame": "/gifs/frames/pogo.jpg",
-        "tags": [
-            "hype",
-            "awesome"
-        ]
+        "tags": ["hype", "awesome"]
     },
     {
         "id": "105",
@@ -935,51 +739,35 @@
         "name": "To Professionalism",
         "file": "/gifs/professionalism.gif",
         "frame": "/gifs/frames/professionalism.jpg",
-        "tags": [
-            "drinking",
-            "drunk"
-        ]
+        "tags": ["drinking", "drunk"]
     },
     {
         "id": "107",
         "name": "Rain",
         "file": "/gifs/rain.gif",
         "frame": "/gifs/frames/rain.jpg",
-        "tags": [
-            "money"
-        ]
+        "tags": ["money"]
     },
     {
         "id": "108",
         "name": "Relax",
         "file": "/gifs/relax.gif",
         "frame": "/gifs/frames/relax.jpg",
-        "tags": [
-            "serene",
-            "calm",
-            "relaxing",
-            "peaceful",
-            "tranquil"
-        ]
+        "tags": ["serene", "calm", "relaxing", "peaceful", "tranquil"]
     },
     {
         "id": "109",
         "name": "Rock On",
         "file": "/gifs/rock-on.gif",
         "frame": "/gifs/frames/rock-on.jpg",
-        "tags": [
-            "awesome",
-            "yes"
-        ]
+        "tags": ["awesome", "yes"]
     },
     {
         "id": "110",
         "name": "Smile",
         "file": "/gifs/ron-swanson-smile.gif",
         "frame": "/gifs/frames/ron-swanson-smile.jpg",
-        "tags": [
-            "happy"
-        ]
+        "tags": ["happy"]
     },
     {
         "id": "111",
@@ -1000,46 +788,35 @@
         "name": "Sarcasm Detector",
         "file": "/gifs/sarcasm-detector.gif",
         "frame": "/gifs/frames/sarcasm-detector.jpg",
-        "tags": [
-            "sarcastic"
-        ]
+        "tags": ["sarcastic"]
     },
     {
         "id": "114",
         "name": "Sarcastic Clap",
         "file": "/gifs/sarcastic-clap.gif",
         "frame": "/gifs/frames/sarcastic-clap.jpg",
-        "tags": [
-            "sarcasm",
-            "not impressed"
-        ]
+        "tags": ["sarcasm", "not impressed"]
     },
     {
         "id": "115",
         "name": "Screaming",
         "file": "/gifs/screaming-2.gif",
         "frame": "/gifs/frames/screaming-2.jpg",
-        "tags": [
-            "stress"
-        ]
+        "tags": ["stress"]
     },
     {
         "id": "116",
         "name": "Screaming",
         "file": "/gifs/screaming.gif",
         "frame": "/gifs/frames/screaming.jpg",
-        "tags": [
-            "upset"
-        ]
+        "tags": ["upset"]
     },
     {
         "id": "117",
         "name": "Screw You Guys, I'm Going Home",
         "file": "/gifs/screw-you-guys-im-going-home.gif",
         "frame": "/gifs/frames/screw-you-guys-im-going-home.jpg",
-        "tags": [
-            "leave"
-        ]
+        "tags": ["leave"]
     },
     {
         "id": "118",
@@ -1053,19 +830,14 @@
         "name": "Snuggle Cat",
         "file": "/gifs/snuggle-cat.gif",
         "frame": "/gifs/frames/snuggle-cat.jpg",
-        "tags": [
-            "cute"
-        ]
+        "tags": ["cute"]
     },
     {
         "id": "120",
         "name": "Awkward Stare",
         "file": "/gifs/stare-awkward.gif",
         "frame": "/gifs/frames/stare-awkward.jpg",
-        "tags": [
-            "uncomfortable",
-            "cool story bro"
-        ]
+        "tags": ["uncomfortable", "cool story bro"]
     },
     {
         "id": "121",
@@ -1079,94 +851,70 @@
         "name": "Stay out of my territory",
         "file": "/gifs/stay-out-of-my-territory.gif",
         "frame": "/gifs/frames/stay-out-of-my-territory.jpg",
-        "tags": [
-            "threat"
-        ]
+        "tags": ["threat"]
     },
     {
         "id": "123",
         "name": "Taco Cat",
         "file": "/gifs/taco-cat-o.gif",
         "frame": "/gifs/frames/taco-cat-o.jpg",
-        "tags": [
-            "nyan",
-            "food"
-        ]
+        "tags": ["nyan", "food"]
     },
     {
         "id": "124",
         "name": "Taco Fling",
         "file": "/gifs/taco-fling.gif",
         "frame": "/gifs/frames/taco-fling.jpg",
-        "tags": [
-            "food"
-        ]
+        "tags": ["food"]
     },
     {
         "id": "125",
         "name": "Taco?",
         "file": "/gifs/taco-yn.gif",
         "frame": "/gifs/frames/taco-yn.jpg",
-        "tags": [
-            "food"
-        ]
+        "tags": ["food"]
     },
     {
         "id": "126",
         "name": "Taco",
         "file": "/gifs/taco.gif",
         "frame": "/gifs/frames/taco.jpg",
-        "tags": [
-            "food"
-        ]
+        "tags": ["food"]
     },
     {
         "id": "127",
         "name": "Terrific",
         "file": "/gifs/terrific.gif",
         "frame": "/gifs/frames/terrific.jpg",
-        "tags": [
-            "awesome"
-        ]
+        "tags": ["awesome"]
     },
     {
         "id": "128",
         "name": "That'll Work",
         "file": "/gifs/thatll-work.gif",
         "frame": "/gifs/frames/thatll-work.jpg",
-        "tags": [
-            "good enough"
-        ]
+        "tags": ["good enough"]
     },
     {
         "id": "129",
         "name": "This is my hell",
         "file": "/gifs/this-is-my-hell.gif",
         "frame": "/gifs/frames/this-is-my-hell.jpg",
-        "tags": [
-            "do not want"
-        ]
+        "tags": ["do not want"]
     },
     {
         "id": "130",
         "name": "Thrust",
         "file": "/gifs/thrust.gif",
         "frame": "/gifs/frames/thrust.jpg",
-        "tags": [
-            "awesome",
-            "hype",
-            "fuck yeah"
-        ]
+        "tags": ["awesome", "hype", "fuck yeah"]
     },
     {
         "id": "131",
         "name": "TSwift Dance",
         "file": "/gifs/tswift-dance.gif",
         "frame": "/gifs/frames/tswift-dance.jpg",
-        "tags": [
-            "hype",
-            "dancing"
-        ]
+        "tags": ["hype", "dancing"]
     },
     {
         "id": "132",
@@ -1180,47 +928,35 @@
         "name": "Uneasy",
         "file": "/gifs/uneasy.gif",
         "frame": "/gifs/frames/uneasy.jpg",
-        "tags": [
-            "unsure"
-        ]
+        "tags": ["unsure"]
     },
     {
         "id": "134",
         "name": "Walking Cat",
         "file": "/gifs/walking-cat.gif",
         "frame": "/gifs/frames/walking-cat.jpg",
-        "tags": [
-            "nope",
-            "leave"
-        ]
+        "tags": ["nope", "leave"]
     },
     {
         "id": "135",
         "name": "Wat",
         "file": "/gifs/wat.gif",
         "frame": "/gifs/frames/wat.jpg",
-        "tags": [
-            "what",
-            "confused"
-        ]
+        "tags": ["what", "confused"]
     },
     {
         "id": "136",
         "name": "Whaaat",
         "file": "/gifs/whaaat.gif",
         "frame": "/gifs/frames/whaaat.jpg",
-        "tags": [
-            "what"
-        ]
+        "tags": ["what"]
     },
     {
         "id": "137",
         "name": "What",
         "file": "/gifs/what.gif",
         "frame": "/gifs/frames/what.jpg",
-        "tags": [
-            "confused"
-        ]
+        "tags": ["confused"]
     },
     {
         "id": "138",
@@ -1241,10 +977,7 @@
         "name": "Yeah Bitch",
         "file": "/gifs/yeah-bitch.gif",
         "frame": "/gifs/frames/yeah-bitch.jpg",
-        "tags": [
-            "hype",
-            "awesome"
-        ]
+        "tags": ["hype", "awesome"]
     },
     {
         "id": "141",
@@ -1258,10 +991,7 @@
         "name": "You sure about that?",
         "file": "/gifs/you-sure-about-that.gif",
         "frame": "/gifs/frames/you-sure-about-that.jpg",
-        "tags": [
-            "question",
-            "unsure"
-        ]
+        "tags": ["question", "unsure"]
     },
     {
         "id": "143",
@@ -1275,54 +1005,42 @@
         "name": "Yum",
         "file": "/gifs/yum.gif",
         "frame": "/gifs/frames/yum.jpg",
-        "tags": [
-            "food"
-        ]
+        "tags": ["food"]
     },
     {
         "id": "145",
         "name": "Jim Looking Around",
         "file": "/gifs/jim-looking-around.gif",
         "frame": "/gifs/frames/jim-looking-around.jpg",
-        "tags": [
-            "awkward"
-        ]
+        "tags": ["awkward"]
     },
     {
         "id": "146",
         "name": "Lebowski Dancing",
         "file": "/gifs/lebowski-dancing.gif",
         "frame": "/gifs/frames/lebowski-dancing.jpg",
-        "tags": [
-            "dance"
-        ]
+        "tags": ["dance"]
     },
     {
         "id": "147",
         "name": "No-huh-uh",
         "file": "/gifs/no-huh-uh.gif",
         "frame": "/gifs/frames/no-huh-uh.jpg",
-        "tags": [
-            "nope"
-        ]
+        "tags": ["nope"]
     },
     {
         "id": "148",
         "name": "Oh Alright",
         "file": "/gifs/oh-alright.gif",
         "frame": "/gifs/frames/oh-alright.jpg",
-        "tags": [
-            "okay"
-        ]
+        "tags": ["okay"]
     },
     {
         "id": "149",
         "name": "Stoned",
         "file": "/gifs/stoned.gif",
         "frame": "/gifs/frames/stoned.jpg",
-        "tags": [
-            "bored"
-        ]
+        "tags": ["bored"]
     },
     {
         "id": "150",
@@ -1336,39 +1054,28 @@
         "name": "No Brakes",
         "file": "/gifs/no-brakes-on-a-boat.gif",
         "frame": "/gifs/frames/no-brakes-on-a-boat.jpg",
-        "tags": [
-            "fail",
-            "abort",
-            "jump"
-        ]
+        "tags": ["fail", "abort", "jump"]
     },
     {
         "id": "152",
         "name": "Booyah",
         "file": "/gifs/booyah.gif",
         "frame": "/gifs/frames/booyah.jpg",
-        "tags": [
-            "boom"
-        ]
+        "tags": ["boom"]
     },
     {
         "id": "153",
         "name": "Drop the mic",
         "file": "/gifs/drop-the-mic.gif",
         "frame": "/gifs/frames/drop-the-mic.jpg",
-        "tags": [
-            "boom",
-            "out"
-        ]
+        "tags": ["boom", "out"]
     },
     {
         "id": "154",
         "name": "Bring it",
         "file": "/gifs/luke-cage-bring-it.gif",
         "frame": "/gifs/frames/luke-cage-bring-it.jpg",
-        "tags": [
-            "challenge"
-        ]
+        "tags": ["challenge"]
     },
     {
         "id": "155",
@@ -1389,59 +1096,42 @@
         "name": "Enough internet",
         "file": "/gifs/enough-internet.gif",
         "frame": "/gifs/frames/enough-internet.jpg",
-        "tags": [
-            "contempt",
-            "done"
-        ]
+        "tags": ["contempt", "done"]
     },
     {
         "id": "158",
         "name": "No way",
         "file": "/gifs/no_way_Neil_deGrasse_Tyson.gif",
         "frame": "/gifs/frames/no_way_Neil_deGrasse_Tyson.jpg",
-        "tags": [
-            "contempt",
-            "do not want"
-        ]
+        "tags": ["contempt", "do not want"]
     },
     {
         "id": "159",
         "name": "Glazed look",
         "file": "/gifs/simon-cowel-glazed-look.gif",
         "frame": "/gifs/frames/simon-cowel-glazed-look.jpg",
-        "tags": [
-            "contempt",
-            "kidding"
-        ]
+        "tags": ["contempt", "kidding"]
     },
     {
         "id": "160",
         "name": "Peter Parker Crying",
         "file": "/gifs/peter-parker-crying.gif",
         "frame": "/gifs/frames/peter-parker-crying.jpg",
-        "tags": [
-            "cry"
-        ]
+        "tags": ["cry"]
     },
     {
         "id": "161",
         "name": "Ace Ventura Dance",
         "file": "/gifs/ace-ventura-dance.gif",
         "frame": "/gifs/frames/ace-ventura-dance.jpg",
-        "tags": [
-            "crazy",
-            "weird",
-            "dancing"
-        ]
+        "tags": ["crazy", "weird", "dancing"]
     },
     {
         "id": "162",
         "name": "Techno Viking",
         "file": "/gifs/techno-viking.gif",
         "frame": "/gifs/frames/techno-viking.jpg",
-        "tags": [
-            "dancing"
-        ]
+        "tags": ["dancing"]
     },
     {
         "id": "163",
@@ -1462,83 +1152,63 @@
         "name": "Disgust",
         "file": "/gifs/disgust-jony-depp.gif",
         "frame": "/gifs/frames/disgust-jony-depp.jpg",
-        "tags": [
-            "contempt"
-        ]
+        "tags": ["contempt"]
     },
     {
         "id": "166",
         "name": "Horrified Hippie",
         "file": "/gifs/horrified-hippie.gif",
         "frame": "/gifs/frames/horrified-hippie.jpg",
-        "tags": [
-            "disgust"
-        ]
+        "tags": ["disgust"]
     },
     {
         "id": "167",
         "name": "Gag",
         "file": "/gifs/jim-carrey-gag.gif",
         "frame": "/gifs/frames/jim-carrey-gag.jpg",
-        "tags": [
-            "disgust"
-        ]
+        "tags": ["disgust"]
     },
     {
         "id": "168",
         "name": "Eye roll",
         "file": "/gifs/stanley-eye-roll.gif",
         "frame": "/gifs/frames/stanley-eye-roll.jpg",
-        "tags": [
-            "disgust"
-        ]
+        "tags": ["disgust"]
     },
     {
         "id": "169",
         "name": "aha",
         "file": "/gifs/aha.gif",
         "frame": "/gifs/frames/aha.jpg",
-        "tags": [
-            "excited",
-            "breakthrough"
-        ]
+        "tags": ["excited", "breakthrough"]
     },
     {
         "id": "170",
         "name": "Anchorman jump in the air",
         "file": "/gifs/anchorman-jump-in-air.gif",
         "frame": "/gifs/frames/anchorman-jump-in-air.jpg",
-        "tags": [
-            "excited"
-        ]
+        "tags": ["excited"]
     },
     {
         "id": "171",
         "name": "You're awesome",
         "file": "/gifs/carl-sagan-youre-awesome.gif",
         "frame": "/gifs/frames/carl-sagan-youre-awesome.jpg",
-        "tags": [
-            "excited",
-            "awesome"
-        ]
+        "tags": ["excited", "awesome"]
     },
     {
         "id": "172",
         "name": "Giggle",
         "file": "/gifs/giggle.gif",
         "frame": "/gifs/frames/giggle.jpg",
-        "tags": [
-            "excited"
-        ]
+        "tags": ["excited"]
     },
     {
         "id": "173",
         "name": "Exellent",
         "file": "/gifs/mr-burns-exellent.gif",
         "frame": "/gifs/frames/mr-burns-exellent.jpg",
-        "tags": [
-            "excited"
-        ]
+        "tags": ["excited"]
     },
     {
         "id": "174",
@@ -1552,76 +1222,56 @@
         "name": "Oooh",
         "file": "/gifs/picard-oooh.gif",
         "frame": "/gifs/frames/picard-oooh.jpg",
-        "tags": [
-            "burn",
-            "excited"
-        ]
+        "tags": ["burn", "excited"]
     },
     {
         "id": "176",
         "name": "Indiana Jones sandbag",
         "file": "/gifs/indiana-jones-sand-bag.gif",
         "frame": "/gifs/frames/indiana-jones-sand-bag.jpg",
-        "tags": [
-            "careful",
-            "focus"
-        ]
+        "tags": ["careful", "focus"]
     },
     {
         "id": "177",
         "name": "Picard slow clap",
         "file": "/gifs/picard-slow-clap.gif",
         "frame": "/gifs/frames/picard-slow-clap.jpg",
-        "tags": [
-            "sarcastic"
-        ]
+        "tags": ["sarcastic"]
     },
     {
         "id": "178",
         "name": "Yak shave",
         "file": "/gifs/yak-shave.gif",
         "frame": "/gifs/frames/yak-shave.jpg",
-        "tags": [
-            "complicated",
-            "distract"
-        ]
+        "tags": ["complicated", "distract"]
     },
     {
         "id": "179",
         "name": "Shufflin robot",
         "file": "/gifs/shufflin-robot.gif",
         "frame": "/gifs/frames/shufflin-robot.jpg",
-        "tags": [
-            "dancing"
-        ]
+        "tags": ["dancing"]
     },
     {
         "id": "180",
         "name": "Sean Connery Fist Pump",
         "file": "/gifs/Sean-Connery-Fist-Pump-US-Open.gif",
         "frame": "/gifs/frames/Sean-Connery-Fist-Pump-US-Open.jpg",
-        "tags": [
-            "excited",
-            "yeah"
-        ]
+        "tags": ["excited", "yeah"]
     },
     {
         "id": "181",
         "name": "Spicy",
         "file": "/gifs/stefan-spicy.gif",
         "frame": "/gifs/frames/stefan-spicy.jpg",
-        "tags": [
-            "excited"
-        ]
+        "tags": ["excited"]
     },
     {
         "id": "182",
         "name": "Super Duper",
         "file": "/gifs/super-duper.gif",
         "frame": "/gifs/frames/super-duper.jpg",
-        "tags": [
-            "excited"
-        ]
+        "tags": ["excited"]
     },
     {
         "id": "183",
@@ -1656,106 +1306,77 @@
         "name": "Fumble",
         "file": "/gifs/fumble.gif",
         "frame": "/gifs/frames/fumble.jpg",
-        "tags": [
-            "fail"
-        ]
+        "tags": ["fail"]
     },
     {
         "id": "188",
         "name": "Monday crash",
         "file": "/gifs/monday-crash.gif",
         "frame": "/gifs/frames/monday-crash.jpg",
-        "tags": [
-            "fail"
-        ]
+        "tags": ["fail"]
     },
     {
         "id": "189",
         "name": "Warehouse forklift crash",
         "file": "/gifs/warehouse-forklift-crash.gif",
         "frame": "/gifs/frames/warehouse-forklift-crash.jpg",
-        "tags": [
-            "fail",
-            "avalanche"
-        ]
+        "tags": ["fail", "avalanche"]
     },
     {
         "id": "190",
         "name": "Thumbs up",
         "file": "/gifs/thumbs-up.gif",
         "frame": "/gifs/frames/thumbs-up.jpg",
-        "tags": [
-            "yes",
-            "approve"
-        ]
+        "tags": ["yes", "approve"]
     },
     {
         "id": "191",
         "name": "Anne Hatheway finger",
         "file": "/gifs/anne-hatheway-finger.gif",
         "frame": "/gifs/frames/anne-hatheway-finger.jpg",
-        "tags": [
-            "fuck you",
-            "contempt"
-        ]
+        "tags": ["fuck you", "contempt"]
     },
     {
         "id": "192",
         "name": "Boba Fett finger",
         "file": "/gifs/boba-fett.gif",
         "frame": "/gifs/frames/boba-fett.jpg",
-        "tags": [
-            "fuck you",
-            "contempt"
-        ]
+        "tags": ["fuck you", "contempt"]
     },
     {
         "id": "193",
         "name": "Ron Swanson computer",
         "file": "/gifs/fu-computer.gif",
         "frame": "/gifs/frames/fu-computer.jpg",
-        "tags": [
-            "done",
-            "enough",
-            "internet"
-        ]
+        "tags": ["done", "enough", "internet"]
     },
     {
         "id": "194",
         "name": "Zach Galifianakis finger",
         "file": "/gifs/zach-galifianakis.gif",
         "frame": "/gifs/frames/zach-galifianakis.jpg",
-        "tags": [
-            "fuck you"
-        ]
+        "tags": ["fuck you"]
     },
     {
         "id": "195",
         "name": "Pirates run away",
         "file": "/gifs/pirates-runs-away.gif",
         "frame": "/gifs/frames/pirates-runs-away.jpg",
-        "tags": [
-            "gtfo"
-        ]
+        "tags": ["gtfo"]
     },
     {
         "id": "196",
         "name": "Typity type",
         "file": "/gifs/typity-type.gif",
         "frame": "/gifs/frames/typity-type.jpg",
-        "tags": [
-            "hacking",
-            "computer"
-        ]
+        "tags": ["hacking", "computer"]
     },
     {
         "id": "197",
         "name": "Cheesy hacking",
         "file": "/gifs/cheesy-hacking.gif",
         "frame": "/gifs/frames/cheesy-hacking.jpg",
-        "tags": [
-            "computer"
-        ]
+        "tags": ["computer"]
     },
     {
         "id": "198",
@@ -1776,10 +1397,7 @@
         "name": "Homer Hiding",
         "file": "/gifs/homer-hiding.gif",
         "frame": "/gifs/frames/homer-hiding.jpg",
-        "tags": [
-            "disappear",
-            "leave"
-        ]
+        "tags": ["disappear", "leave"]
     },
     {
         "id": "201",
@@ -1800,10 +1418,7 @@
         "name": "Hurry",
         "file": "/gifs/judge-judy-hurry.gif",
         "frame": "/gifs/frames/judge-judy-hurry.jpg",
-        "tags": [
-            "quick",
-            "time"
-        ]
+        "tags": ["quick", "time"]
     },
     {
         "id": "204",
@@ -1817,18 +1432,14 @@
         "name": "Hold on to your butts",
         "file": "/gifs/hold-onto-ur-butts.gif",
         "frame": "/gifs/frames/hold-onto-ur-butts.jpg",
-        "tags": [
-            "prepare"
-        ]
+        "tags": ["prepare"]
     },
     {
         "id": "206",
         "name": "Dumb & Dumber laugh",
         "file": "/gifs/dumb-dumber-laugh.gif",
         "frame": "/gifs/frames/dumb-dumber-laugh.jpg",
-        "tags": [
-            "funny"
-        ]
+        "tags": ["funny"]
     },
     {
         "id": "207",
@@ -1849,64 +1460,49 @@
         "name": "Nope",
         "file": "/gifs/dikembe-mutumbo-nope.gif",
         "frame": "/gifs/frames/dikembe-mutumbo-nope.jpg",
-        "tags": [
-            "denied"
-        ]
+        "tags": ["denied"]
     },
     {
         "id": "210",
         "name": "No",
         "file": "/gifs/michael-scott-no.gif",
         "frame": "/gifs/frames/michael-scott-no.jpg",
-        "tags": [
-            "nope"
-        ]
+        "tags": ["nope"]
     },
     {
         "id": "211",
         "name": "QA rejected",
         "file": "/gifs/QA-rejected.gif",
         "frame": "/gifs/frames/QA-rejected.jpg",
-        "tags": [
-            "nope"
-        ]
+        "tags": ["nope"]
     },
     {
         "id": "212",
         "name": "What no",
         "file": "/gifs/whatno.gif",
         "frame": "/gifs/frames/whatno.jpg",
-        "tags": [
-            "nope"
-        ]
+        "tags": ["nope"]
     },
     {
         "id": "213",
         "name": "IT Crowd popcorn",
         "file": "/gifs/it-crowd-popcorn.gif",
         "frame": "/gifs/frames/it-crowd-popcorn.jpg",
-        "tags": [
-            "watching"
-        ]
+        "tags": ["watching"]
     },
     {
         "id": "214",
         "name": "Jon Stewart popcorn",
         "file": "/gifs/jon-stewart-popcorn.gif",
         "frame": "/gifs/frames/jon-stewart-popcorn.jpg",
-        "tags": [
-            "watching"
-        ]
+        "tags": ["watching"]
     },
     {
         "id": "215",
         "name": "Head nod",
         "file": "/gifs/head-nod.gif",
         "frame": "/gifs/frames/head-nod.jpg",
-        "tags": [
-            "proud",
-            "yes"
-        ]
+        "tags": ["proud", "yes"]
     },
     {
         "id": "216",
@@ -1927,38 +1523,28 @@
         "name": "Drake shrug",
         "file": "/gifs/drake-shrug.gif",
         "frame": "/gifs/frames/drake-shrug.jpg",
-        "tags": [
-            "idk"
-        ]
+        "tags": ["idk"]
     },
     {
         "id": "219",
         "name": "Eh uh huh",
         "file": "/gifs/eh-uh-huh.gif",
         "frame": "/gifs/frames/eh-uh-huh.jpg",
-        "tags": [
-            "shrug"
-        ]
+        "tags": ["shrug"]
     },
     {
         "id": "220",
         "name": "The Mask",
         "file": "/gifs/the-mask.gif",
         "frame": "/gifs/frames/the-mask.jpg",
-        "tags": [
-            "sneak",
-            "shh"
-        ]
+        "tags": ["sneak", "shh"]
     },
     {
         "id": "221",
         "name": "Yup",
         "file": "/gifs/yup-stepbrothers.gif",
         "frame": "/gifs/frames/yup-stepbrothers.jpg",
-        "tags": [
-            "yep",
-            "yes"
-        ]
+        "tags": ["yep", "yes"]
     },
     {
         "id": "222",
@@ -2007,10 +1593,7 @@
         "name": "Tired",
         "file": "/gifs/arrested-development-tired.gif",
         "frame": "/gifs/frames/arrested-development-tired.jpg",
-        "tags": [
-            "give up",
-            "quit"
-        ]
+        "tags": ["give up", "quit"]
     },
     {
         "id": "229",
@@ -2031,84 +1614,63 @@
         "name": "Blinds",
         "file": "/gifs/family-guy-blinds.gif",
         "frame": "/gifs/frames/family-guy-blinds.jpg",
-        "tags": [
-            "struggle"
-        ]
+        "tags": ["struggle"]
     },
     {
         "id": "232",
         "name": "Fixing tests",
         "file": "/gifs/fixing-ci-tests.gif",
         "frame": "/gifs/frames/fixing-ci-tests.jpg",
-        "tags": [
-            "struggle"
-        ]
+        "tags": ["struggle"]
     },
     {
         "id": "233",
         "name": "Amy Pohler rage",
         "file": "/gifs/amy-pohler-rage.gif",
         "frame": "/gifs/frames/amy-pohler-rage.jpg",
-        "tags": [
-            "upset"
-        ]
+        "tags": ["upset"]
     },
     {
         "id": "234",
         "name": "Rage quit",
         "file": "/gifs/conan-ragequit.gif",
         "frame": "/gifs/frames/conan-ragequit.jpg",
-        "tags": [
-            "upset"
-        ]
+        "tags": ["upset"]
     },
     {
         "id": "235",
         "name": "BSOD",
         "file": "/gifs/DataBSOD.gif",
         "frame": "/gifs/frames/DataBSOD.jpg",
-        "tags": [
-            "upset",
-            "computer"
-        ]
+        "tags": ["upset", "computer"]
     },
     {
         "id": "236",
         "name": "Jump out window",
         "file": "/gifs/jumps-out-window2.gif",
         "frame": "/gifs/frames/jumps-out-window2.jpg",
-        "tags": [
-            "upset",
-            "quit"
-        ]
+        "tags": ["upset", "quit"]
     },
     {
         "id": "237",
         "name": "Outta here",
         "file": "/gifs/outta-here.gif",
         "frame": "/gifs/frames/outta-here.jpg",
-        "tags": [
-            "upset",
-            "quit"
-        ]
+        "tags": ["upset", "quit"]
     },
     {
         "id": "238",
         "name": "Table flip",
         "file": "/gifs/tableflip.gif",
         "frame": "/gifs/frames/tableflip.jpg",
-        "tags": [
-            "upset"
-        ]
+        "tags": ["upset"]
     },
     {
         "id": "239",
         "name": "Give it to me",
         "file": "/gifs/colbert-give-it-to-me.gif",
         "frame": "/gifs/frames/colbert-give-it-to-me.jpg",
-        "tags": [
-            "want"
-        ]
+        "tags": ["want"]
     },
     {
         "id": "240",
@@ -2136,9 +1698,7 @@
         "name": "I have no idea",
         "file": "/gifs/i-have-no-idea.gif",
         "frame": "/gifs/frames/i-have-no-idea.jpg",
-        "tags": [
-            "clueless"
-        ]
+        "tags": ["clueless"]
     },
     {
         "id": "244",
@@ -2152,9 +1712,7 @@
         "name": "Too much coffee",
         "file": "/gifs/too-much-coffee.gif",
         "frame": "/gifs/frames/too-much-coffee.jpg",
-        "tags": [
-            "caffeine"
-        ]
+        "tags": ["caffeine"]
     },
     {
         "id": "246",
@@ -2168,28 +1726,21 @@
         "name": "No strong feelings",
         "file": "/gifs/no-strong-feelings.gif",
         "frame": "/gifs/frames/no-strong-feelings.jpg",
-        "tags": [
-            "unsure",
-            "don't care"
-        ]
+        "tags": ["unsure", "don't care"]
     },
     {
         "id": "248",
         "name": "Shocked",
         "file": "/gifs/shocked-not-really.gif",
         "frame": "/gifs/frames/shocked-not-really.jpg",
-        "tags": [
-            "sarcastic"
-        ]
+        "tags": ["sarcastic"]
     },
     {
         "id": "249",
         "name": "Hooray for me",
         "file": "/gifs/hooray-for-me.gif",
         "frame": "/gifs/frames/hooray-for-me.jpg",
-        "tags": [
-            "celebrate"
-        ]
+        "tags": ["celebrate"]
     },
     {
         "id": "250",
@@ -2203,9 +1754,7 @@
         "name": "Hopes deleted",
         "file": "/gifs/hopes-deleted.gif",
         "frame": "/gifs/frames/hopes-deleted.jpg",
-        "tags": [
-            "sad"
-        ]
+        "tags": ["sad"]
     },
     {
         "id": "252",
@@ -2226,18 +1775,14 @@
         "name": "Nope",
         "file": "/gifs/american-dad-nope.gif",
         "frame": "/gifs/frames/american-dad-nope.jpg",
-        "tags": [
-            "leave"
-        ]
+        "tags": ["leave"]
     },
     {
         "id": "255",
         "name": "So jealous",
         "file": "/gifs/so-jealous.gif",
         "frame": "/gifs/frames/so-jealous.jpg",
-        "tags": [
-            "jealousy"
-        ]
+        "tags": ["jealousy"]
     },
     {
         "id": "256",
@@ -2307,9 +1852,7 @@
         "name": "Get schwifty",
         "file": "/gifs/get-schwifty.gif",
         "frame": "/gifs/frames/get-schwifty.jpg",
-        "tags": [
-            "dancing"
-        ]
+        "tags": ["dancing"]
     },
     {
         "id": "266",
@@ -2323,9 +1866,7 @@
         "name": "Distraught",
         "file": "/gifs/distraught.gif",
         "frame": "/gifs/frames/distraught.jpg",
-        "tags": [
-            "pained"
-        ]
+        "tags": ["pained"]
     },
     {
         "id": "268",
@@ -2360,20 +1901,13 @@
         "name": "Thumbs Up",
         "file": "/gifs/thumbs-up-kiss.gif",
         "frame": "/gifs/frames/thumbs-up-kiss.jpg",
-        "tags": [
-            "yes",
-            "approve",
-            "awesome"
-        ]
+        "tags": ["yes", "approve", "awesome"]
     },
     {
         "id": "273",
         "name": "Thumbs Up",
         "file": "/gifs/thumbs-up-charlie-day.gif",
         "frame": "/gifs/frames/thumbs-up-charlie-day.jpg",
-        "tags": [
-            "yes",
-            "approve"
-        ]
+        "tags": ["yes", "approve"]
     }
 ]

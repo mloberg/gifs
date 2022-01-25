@@ -18,7 +18,8 @@ window.searchGifs = (host, apiKey) => {
       placeholder: 'Search for a gif',
       cssClasses: {
         form: 'mt-1 w-1/2 mx-auto flex',
-        input: 'border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:border-blue-500',
+        input:
+          'border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:border-blue-500',
         reset: '-ml-6',
       },
     }),
@@ -93,7 +94,8 @@ window.loadGif = (gif, event) => {
   }
 
   const img = new Image();
-  img.onload = function () { // eslint-disable-line func-names
+  // eslint-disable-next-line func-names
+  img.onload = function () {
     target.src = this.src;
     target.parentNode.querySelector('.loading').remove();
   };

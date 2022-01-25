@@ -1,0 +1,6 @@
+_site
+assets
+vendor
+_layouts/compress.html
+package-lock.json
+*.md
