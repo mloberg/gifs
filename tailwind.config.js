@@ -1,18 +1,9 @@
 module.exports = {
-  purge: [
-    './**/*.html',
-    './**/*.md',
+  content: [
+    './index.html',
     './_assets/**/*.js',
   ],
-  darkMode: 'media', // or 'class' or false
   theme: {
-    extend: {
-      zIndex: {
-        '-1': '-1',
-      },
-    },
-  },
-  variants: {
     extend: {},
   },
   plugins: [],
