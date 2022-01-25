@@ -1,4 +1,4 @@
-import Alpine from 'alpinejs'
+import Alpine from 'alpinejs';
 import { instantMeiliSearch } from '@meilisearch/instant-meilisearch';
 import copy from 'copy-to-clipboard';
 import instantsearch from 'instantsearch.js';
