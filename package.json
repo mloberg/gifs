@@ -24,7 +24,7 @@
         "eslint": "^8.8.0",
         "eslint-config-airbnb-base": "^15.0.0",
         "eslint-plugin-import": "^2.25.4",
-        "postcss": "^8.4.5",
+        "postcss": "^8.4.6",
         "postcss-loader": "^6.2.1",
         "prettier": "^2.5.1",
         "prettier-plugin-tailwindcss": "^0.1.4",
