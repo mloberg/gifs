@@ -18,7 +18,7 @@
     },
     "devDependencies": {
         "@babel/plugin-transform-runtime": "^7.17.0",
-        "@symfony/webpack-encore": "^1.8.1",
+        "@symfony/webpack-encore": "^1.8.2",
         "autoprefixer": "^10.4.2",
         "concurrently": "^7.0.0",
         "eslint": "^8.11.0",
