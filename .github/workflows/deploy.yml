@@ -22,9 +22,9 @@ jobs:
           cache: 'npm'
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
+          ruby-version: 3.1
           bundler-cache: true
-      - run: npm install
+      - run: npm ci
       - run: make index
         env:
           MEILI_PRIVATE_KEY: ${{ secrets.MEILI_PRIVATE_KEY }}

@@ -6,7 +6,7 @@
         "prod": "encore prod",
         "watch:webpack": "encore dev --watch",
         "watch:jekyll": "bundle exec jekyll serve --watch --open",
-        "postinstall": "bundle install --path=vendor/bundle --jobs=4 --retry=3",
+        "postinstall": "bundle install",
         "lint": "eslint --cache . && prettier --check .",
         "fix": "eslint --cache --fix . && prettier --write ."
     },
