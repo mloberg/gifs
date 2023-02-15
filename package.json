@@ -11,7 +11,7 @@
         "fix": "eslint --cache --fix . && prettier --write ."
     },
     "dependencies": {
-        "@meilisearch/instant-meilisearch": "^0.10.1",
+        "@meilisearch/instant-meilisearch": "^0.11.0",
         "alpinejs": "^3.11.1",
         "copy-to-clipboard": "^3.3.3",
         "instantsearch.js": "^4.51.0"
