@@ -28,7 +28,7 @@ jobs:
       - run: make index
         env:
           MEILI_PRIVATE_KEY: ${{ secrets.MEILI_PRIVATE_KEY }}
-      - uses: aws-actions/configure-aws-credentials@v1
+      - uses: aws-actions/configure-aws-credentials@v2
         with:
           aws-region: us-west-2
           role-to-assume: arn:aws:iam::603767838523:role/gifs
