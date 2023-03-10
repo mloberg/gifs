@@ -19,7 +19,7 @@
     "devDependencies": {
         "@babel/plugin-transform-runtime": "^7.21.0",
         "@symfony/webpack-encore": "^4.2.0",
-        "autoprefixer": "^10.4.13",
+        "autoprefixer": "^10.4.14",
         "concurrently": "^7.6.0",
         "eslint": "^8.34.0",
         "eslint-config-airbnb-base": "^15.0.0",
