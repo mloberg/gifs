@@ -11,24 +11,24 @@
         "fix": "eslint --cache --fix . && prettier --write ."
     },
     "dependencies": {
+        "@babel/plugin-transform-runtime": "^7.23.7",
         "@meilisearch/instant-meilisearch": "^0.11.1",
+        "@symfony/webpack-encore": "^4.5.0",
         "alpinejs": "^3.13.3",
+        "autoprefixer": "^10.4.16",
         "copy-to-clipboard": "^3.3.3",
-        "instantsearch.js": "^4.54.1"
+        "instantsearch.js": "^4.54.1",
+        "postcss": "^8.4.33",
+        "postcss-loader": "^7.3.4",
+        "tailwindcss": "^3.4.0"
     },
     "devDependencies": {
-        "@babel/plugin-transform-runtime": "^7.23.7",
-        "@symfony/webpack-encore": "^4.5.0",
-        "autoprefixer": "^10.4.16",
         "concurrently": "^8.2.2",
         "eslint": "^8.56.0",
         "eslint-config-airbnb-base": "^15.0.0",
         "eslint-plugin-import": "^2.29.1",
-        "postcss": "^8.4.33",
-        "postcss-loader": "^7.3.4",
         "prettier": "^3.1.1",
-        "prettier-plugin-tailwindcss": "^0.5.10",
-        "tailwindcss": "^3.4.0"
+        "prettier-plugin-tailwindcss": "^0.5.10"
     },
     "browserslist": [
         "> 2%"

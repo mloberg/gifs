@@ -3,12 +3,27 @@ updates:
   - package-ecosystem: github-actions
     directory: /
     schedule:
-      interval: daily
+      interval: monthly
+    commit-message:
+      prefix: ci
+    groups:
+      actions:
+        patterns:
+          - "*"
   - package-ecosystem: npm
     directory: /
     schedule:
-      interval: daily
+      interval: monthly
+    groups:
+      dev:
+        dependency-type: development
+      frontend:
+        dependency-type: production
+      search:
+        patterns:
+          - "@meilisearch/"
+          - instantsearch*
   - package-ecosystem: bundler
     directory: /
     schedule:
-      interval: daily
+      interval: monthly
