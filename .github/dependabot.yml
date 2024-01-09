@@ -19,6 +19,9 @@ updates:
         dependency-type: development
       frontend:
         dependency-type: production
+        exclude-patterns:
+          - '@meilisearch/'
+          - instantsearch*
       search:
         patterns:
           - '@meilisearch/'
