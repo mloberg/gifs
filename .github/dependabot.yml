@@ -20,11 +20,11 @@ updates:
       frontend:
         dependency-type: production
         exclude-patterns:
-          - '@meilisearch/'
+          - '@meilisearch/*'
           - instantsearch*
       search:
         patterns:
-          - '@meilisearch/'
+          - '@meilisearch/*'
           - instantsearch*
   - package-ecosystem: bundler
     directory: /
