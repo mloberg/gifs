@@ -11,16 +11,16 @@
         "fix": "eslint --cache --fix . && prettier --write ."
     },
     "dependencies": {
-        "@babel/plugin-transform-runtime": "^7.23.7",
+        "@babel/plugin-transform-runtime": "^7.25.9",
         "@meilisearch/instant-meilisearch": "^0.11.1",
-        "@symfony/webpack-encore": "^4.5.0",
-        "alpinejs": "^3.13.3",
-        "autoprefixer": "^10.4.16",
+        "@symfony/webpack-encore": "^5.0.1",
+        "alpinejs": "^3.14.3",
+        "autoprefixer": "^10.4.20",
         "copy-to-clipboard": "^3.3.3",
         "instantsearch.js": "^4.54.1",
         "postcss": "^8.4.33",
-        "postcss-loader": "^7.3.4",
-        "tailwindcss": "^3.4.0"
+        "postcss-loader": "^8.1.1",
+        "tailwindcss": "^3.4.14"
     },
     "devDependencies": {
         "concurrently": "^8.2.2",
