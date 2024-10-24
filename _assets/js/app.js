@@ -1,5 +1,5 @@
-import Alpine from 'alpinejs';
 import { instantMeiliSearch } from '@meilisearch/instant-meilisearch';
+import Alpine from 'alpinejs';
 import copy from 'copy-to-clipboard';
 import instantsearch from 'instantsearch.js';
 import { hits, searchBox } from 'instantsearch.js/es/widgets';
@@ -94,7 +94,6 @@ window.loadGif = (gif, event) => {
   }
 
   const img = new Image();
-  // eslint-disable-next-line func-names
   img.onload = function () {
     target.src = this.src;
     target.parentNode.querySelector('.loading').remove();
