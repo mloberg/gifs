@@ -23,13 +23,13 @@
         "tailwindcss": "^3.4.15"
     },
     "devDependencies": {
-        "@eslint/js": "^9.23.0",
+        "@eslint/js": "^9.28.0",
         "concurrently": "^9.1.2",
-        "eslint": "^9.23.0",
+        "eslint": "^9.28.0",
         "eslint-plugin-simple-import-sort": "^12.1.1",
-        "globals": "^16.0.0",
+        "globals": "^16.2.0",
         "prettier": "^3.5.3",
-        "prettier-plugin-tailwindcss": "^0.6.11"
+        "prettier-plugin-tailwindcss": "^0.6.12"
     },
     "browserslist": [
         "> 2%"
