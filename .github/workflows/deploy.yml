@@ -15,8 +15,8 @@ jobs:
       id-token: write
       contents: read
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
           node-version-file: .tool-versions
           cache: 'npm'
@@ -28,7 +28,7 @@ jobs:
       - run: make index
         env:
           MEILI_PRIVATE_KEY: ${{ secrets.MEILI_PRIVATE_KEY }}
-      - uses: aws-actions/configure-aws-credentials@v4
+      - uses: aws-actions/configure-aws-credentials@v5
         with:
           aws-region: us-west-2
           role-to-assume: arn:aws:iam::603767838523:role/gifs
